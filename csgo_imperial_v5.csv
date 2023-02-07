@@ -1,0 +1,891 @@
+,team_1,team_2,bo3_result,date,championship,map,score_1,score_2,players_t1,players_t2,kd_t1,kd_t2
+0,Imperial,00NATION,2 - 0,Results for January 20th 2023,ESL Pro League Season 17 Conference South America,Nuke,16,3,chelo,dumau,25-12,8-16
+1,Imperial,00NATION,2 - 0,Results for January 20th 2023,ESL Pro League Season 17 Conference South America,Nuke,16,3,VINI,nqz,21-8,10-15
+2,Imperial,00NATION,2 - 0,Results for January 20th 2023,ESL Pro League Season 17 Conference South America,Nuke,16,3,FalleN,coldzera,13-5,11-19
+3,Imperial,00NATION,2 - 0,Results for January 20th 2023,ESL Pro League Season 17 Conference South America,Nuke,16,3,JOTA,TACO,13-9,8-18
+4,Imperial,00NATION,2 - 0,Results for January 20th 2023,ESL Pro League Season 17 Conference South America,Nuke,16,3,boltz,latto,12-9,6-17
+5,Imperial,00NATION,2 - 0,Results for January 20th 2023,ESL Pro League Season 17 Conference South America,Overpass,16,10,FalleN,dumau,24-12,19-19
+6,Imperial,00NATION,2 - 0,Results for January 20th 2023,ESL Pro League Season 17 Conference South America,Overpass,16,10,VINI,coldzera,16-15,16-19
+7,Imperial,00NATION,2 - 0,Results for January 20th 2023,ESL Pro League Season 17 Conference South America,Overpass,16,10,chelo,latto,20-16,11-19
+8,Imperial,00NATION,2 - 0,Results for January 20th 2023,ESL Pro League Season 17 Conference South America,Overpass,16,10,JOTA,nqz,17-14,17-20
+9,Imperial,00NATION,2 - 0,Results for January 20th 2023,ESL Pro League Season 17 Conference South America,Overpass,16,10,boltz,TACO,18-17,11-18
+10,Imperial,Cloud9,0 - 2,Results for November 2nd 2022,IEM Rio Major 2022 Challengers Stage,Overpass,15,19,fer,sh1ro,24-24,28-18
+11,Imperial,Cloud9,0 - 2,Results for November 2nd 2022,IEM Rio Major 2022 Challengers Stage,Overpass,15,19,VINI,HObbit,21-21,23-23
+12,Imperial,Cloud9,0 - 2,Results for November 2nd 2022,IEM Rio Major 2022 Challengers Stage,Overpass,15,19,chelo,Ax1Le,22-23,19-20
+13,Imperial,Cloud9,0 - 2,Results for November 2nd 2022,IEM Rio Major 2022 Challengers Stage,Overpass,15,19,FalleN,nafany,17-22,22-23
+14,Imperial,Cloud9,0 - 2,Results for November 2nd 2022,IEM Rio Major 2022 Challengers Stage,Overpass,15,19,boltz,interz,19-23,21-19
+15,Imperial,Cloud9,0 - 2,Results for November 2nd 2022,IEM Rio Major 2022 Challengers Stage,Vertigo,19,22,fer,HObbit,31-30,40-28
+16,Imperial,Cloud9,0 - 2,Results for November 2nd 2022,IEM Rio Major 2022 Challengers Stage,Vertigo,19,22,chelo,sh1ro,31-33,45-27
+17,Imperial,Cloud9,0 - 2,Results for November 2nd 2022,IEM Rio Major 2022 Challengers Stage,Vertigo,19,22,boltz,interz,24-30,19-24
+18,Imperial,Cloud9,0 - 2,Results for November 2nd 2022,IEM Rio Major 2022 Challengers Stage,Vertigo,19,22,FalleN,nafany,25-26,25-30
+19,Imperial,Cloud9,0 - 2,Results for November 2nd 2022,IEM Rio Major 2022 Challengers Stage,Vertigo,19,22,VINI,Ax1Le,24-30,20-26
+20,Imperial,paiN,1 - 2,Results for October 16th 2022,Flow FiReLEAGUE 2022 Global Finals,Dust2,13,16,boltz,biguzera,26-20,27-18
+21,Imperial,paiN,1 - 2,Results for October 16th 2022,Flow FiReLEAGUE 2022 Global Finals,Dust2,13,16,fer,zevy,16-20,29-13
+22,Imperial,paiN,1 - 2,Results for October 16th 2022,Flow FiReLEAGUE 2022 Global Finals,Dust2,13,16,FalleN,skullz,15-21,20-18
+23,Imperial,paiN,1 - 2,Results for October 16th 2022,Flow FiReLEAGUE 2022 Global Finals,Dust2,13,16,chelo,hardzao,14-21,16-19
+24,Imperial,paiN,1 - 2,Results for October 16th 2022,Flow FiReLEAGUE 2022 Global Finals,Dust2,13,16,VINI,PKL,12-20,10-17
+25,Imperial,paiN,1 - 2,Results for October 16th 2022,Flow FiReLEAGUE 2022 Global Finals,Overpass,16,14,chelo,biguzera,24-22,25-18
+26,Imperial,paiN,1 - 2,Results for October 16th 2022,Flow FiReLEAGUE 2022 Global Finals,Overpass,16,14,fer,skullz,21-17,18-17
+27,Imperial,paiN,1 - 2,Results for October 16th 2022,Flow FiReLEAGUE 2022 Global Finals,Overpass,16,14,boltz,PKL,16-15,17-20
+28,Imperial,paiN,1 - 2,Results for October 16th 2022,Flow FiReLEAGUE 2022 Global Finals,Overpass,16,14,FalleN,zevy,19-19,17-19
+29,Imperial,paiN,1 - 2,Results for October 16th 2022,Flow FiReLEAGUE 2022 Global Finals,Overpass,16,14,VINI,hardzao,13-20,16-19
+30,Imperial,paiN,1 - 2,Results for October 16th 2022,Flow FiReLEAGUE 2022 Global Finals,Vertigo,6,16,fer,biguzera,19-17,23-12
+31,Imperial,paiN,1 - 2,Results for October 16th 2022,Flow FiReLEAGUE 2022 Global Finals,Vertigo,6,16,chelo,PKL,15-17,22-12
+32,Imperial,paiN,1 - 2,Results for October 16th 2022,Flow FiReLEAGUE 2022 Global Finals,Vertigo,6,16,boltz,hardzao,10-15,17-13
+33,Imperial,paiN,1 - 2,Results for October 16th 2022,Flow FiReLEAGUE 2022 Global Finals,Vertigo,6,16,FalleN,skullz,10-17,11-11
+34,Imperial,paiN,1 - 2,Results for October 16th 2022,Flow FiReLEAGUE 2022 Global Finals,Vertigo,6,16,VINI,zevy,9-18,11-15
+35,Imperial,Isurus,2 - 0,Results for October 15th 2022,Flow FiReLEAGUE 2022 Global Finals,Dust2,16,14,chelo,luchov,30-18,24-21
+36,Imperial,Isurus,2 - 0,Results for October 15th 2022,Flow FiReLEAGUE 2022 Global Finals,Dust2,16,14,fer,reversive,24-19,19-20
+37,Imperial,Isurus,2 - 0,Results for October 15th 2022,Flow FiReLEAGUE 2022 Global Finals,Dust2,16,14,VINI,meyern,19-17,21-21
+38,Imperial,Isurus,2 - 0,Results for October 15th 2022,Flow FiReLEAGUE 2022 Global Finals,Dust2,16,14,FalleN,Noktse,17-19,18-20
+39,Imperial,Isurus,2 - 0,Results for October 15th 2022,Flow FiReLEAGUE 2022 Global Finals,Dust2,16,14,boltz,deco,12-24,15-20
+40,Imperial,Isurus,2 - 0,Results for October 15th 2022,Flow FiReLEAGUE 2022 Global Finals,Overpass,16,12,VINI,luchov,28-18,21-19
+41,Imperial,Isurus,2 - 0,Results for October 15th 2022,Flow FiReLEAGUE 2022 Global Finals,Overpass,16,12,FalleN,meyern,21-13,19-22
+42,Imperial,Isurus,2 - 0,Results for October 15th 2022,Flow FiReLEAGUE 2022 Global Finals,Overpass,16,12,boltz,Noktse,20-15,17-21
+43,Imperial,Isurus,2 - 0,Results for October 15th 2022,Flow FiReLEAGUE 2022 Global Finals,Overpass,16,12,fer,reversive,21-14,7-19
+44,Imperial,Isurus,2 - 0,Results for October 15th 2022,Flow FiReLEAGUE 2022 Global Finals,Overpass,16,12,chelo,deco,12-16,12-22
+45,Imperial,Complexity,2 - 1,Results for October 10th 2022,IEM Road to Rio 2022 Americas RMR,Inferno,16,13,FalleN,floppy,23-14,18-17
+46,Imperial,Complexity,2 - 1,Results for October 10th 2022,IEM Road to Rio 2022 Americas RMR,Inferno,16,13,VINI,hallzerk,26-15,17-18
+47,Imperial,Complexity,2 - 1,Results for October 10th 2022,IEM Road to Rio 2022 Americas RMR,Inferno,16,13,chelo,FaNg,20-16,15-20
+48,Imperial,Complexity,2 - 1,Results for October 10th 2022,IEM Road to Rio 2022 Americas RMR,Inferno,16,13,fer,Grim,20-15,12-21
+49,Imperial,Complexity,2 - 1,Results for October 10th 2022,IEM Road to Rio 2022 Americas RMR,Inferno,16,13,boltz,JT,9-17,14-24
+50,Imperial,Complexity,2 - 1,Results for October 10th 2022,IEM Road to Rio 2022 Americas RMR,Nuke,11,16,boltz,Grim,17-18,20-17
+51,Imperial,Complexity,2 - 1,Results for October 10th 2022,IEM Road to Rio 2022 Americas RMR,Nuke,11,16,VINI,hallzerk,24-19,21-15
+52,Imperial,Complexity,2 - 1,Results for October 10th 2022,IEM Road to Rio 2022 Americas RMR,Nuke,11,16,chelo,FaNg,19-16,19-19
+53,Imperial,Complexity,2 - 1,Results for October 10th 2022,IEM Road to Rio 2022 Americas RMR,Nuke,11,16,FalleN,floppy,18-16,18-23
+54,Imperial,Complexity,2 - 1,Results for October 10th 2022,IEM Road to Rio 2022 Americas RMR,Nuke,11,16,fer,JT,14-22,13-18
+55,Imperial,Complexity,2 - 1,Results for October 10th 2022,IEM Road to Rio 2022 Americas RMR,Overpass,22,20,chelo,FaNg,40-30,36-29
+56,Imperial,Complexity,2 - 1,Results for October 10th 2022,IEM Road to Rio 2022 Americas RMR,Overpass,22,20,FalleN,Grim,30-22,33-30
+57,Imperial,Complexity,2 - 1,Results for October 10th 2022,IEM Road to Rio 2022 Americas RMR,Overpass,22,20,fer,floppy,27-29,26-28
+58,Imperial,Complexity,2 - 1,Results for October 10th 2022,IEM Road to Rio 2022 Americas RMR,Overpass,22,20,VINI,hallzerk,24-26,24-28
+59,Imperial,Complexity,2 - 1,Results for October 10th 2022,IEM Road to Rio 2022 Americas RMR,Overpass,22,20,boltz,JT,21-29,17-27
+60,Imperial,paiN,2 - 0,Results for October 9th 2022,IEM Road to Rio 2022 Americas RMR,Vertigo,16,14,chelo,skullz,29-19,23-19
+61,Imperial,paiN,2 - 0,Results for October 9th 2022,IEM Road to Rio 2022 Americas RMR,Vertigo,16,14,FalleN,hardzao,22-16,21-23
+62,Imperial,paiN,2 - 0,Results for October 9th 2022,IEM Road to Rio 2022 Americas RMR,Vertigo,16,14,fer,zevy,21-21,16-17
+63,Imperial,paiN,2 - 0,Results for October 9th 2022,IEM Road to Rio 2022 Americas RMR,Vertigo,16,14,boltz,biguzera,18-17,15-25
+64,Imperial,paiN,2 - 0,Results for October 9th 2022,IEM Road to Rio 2022 Americas RMR,Vertigo,16,14,VINI,PKL,14-17,15-20
+65,Imperial,paiN,2 - 0,Results for October 9th 2022,IEM Road to Rio 2022 Americas RMR,Overpass,19,16,chelo,biguzera,30-29,26-23
+66,Imperial,paiN,2 - 0,Results for October 9th 2022,IEM Road to Rio 2022 Americas RMR,Overpass,19,16,FalleN,PKL,29-21,27-21
+67,Imperial,paiN,2 - 0,Results for October 9th 2022,IEM Road to Rio 2022 Americas RMR,Overpass,19,16,boltz,skullz,26-19,22-23
+68,Imperial,paiN,2 - 0,Results for October 9th 2022,IEM Road to Rio 2022 Americas RMR,Overpass,19,16,VINI,hardzao,17-24,21-25
+69,Imperial,paiN,2 - 0,Results for October 9th 2022,IEM Road to Rio 2022 Americas RMR,Overpass,19,16,fer,zevy,17-23,20-27
+70,Imperial,Nouns,2 - 0,Results for October 8th 2022,IEM Road to Rio 2022 Americas RMR,Inferno,22,18,FalleN,jeorgesnorts,31-18,36-24
+71,Imperial,Nouns,2 - 0,Results for October 8th 2022,IEM Road to Rio 2022 Americas RMR,Inferno,22,18,chelo,Bwills,31-28,24-24
+72,Imperial,Nouns,2 - 0,Results for October 8th 2022,IEM Road to Rio 2022 Americas RMR,Inferno,22,18,fer,cxzi,26-26,25-31
+73,Imperial,Nouns,2 - 0,Results for October 8th 2022,IEM Road to Rio 2022 Americas RMR,Inferno,22,18,VINI,JazzPimp,24-23,19-30
+74,Imperial,Nouns,2 - 0,Results for October 8th 2022,IEM Road to Rio 2022 Americas RMR,Inferno,22,18,boltz,cynic,22-26,13-26
+75,Imperial,Nouns,2 - 0,Results for October 8th 2022,IEM Road to Rio 2022 Americas RMR,Overpass,16,10,VINI,cynic,27-14,27-17
+76,Imperial,Nouns,2 - 0,Results for October 8th 2022,IEM Road to Rio 2022 Americas RMR,Overpass,16,10,boltz,cxzi,21-19,17-18
+77,Imperial,Nouns,2 - 0,Results for October 8th 2022,IEM Road to Rio 2022 Americas RMR,Overpass,16,10,chelo,Bwills,16-16,15-20
+78,Imperial,Nouns,2 - 0,Results for October 8th 2022,IEM Road to Rio 2022 Americas RMR,Overpass,16,10,FalleN,JazzPimp,16-14,13-19
+79,Imperial,Nouns,2 - 0,Results for October 8th 2022,IEM Road to Rio 2022 Americas RMR,Overpass,16,10,fer,jeorgesnorts,14-17,8-20
+80,Imperial,TeamOne,2 - 1,Results for October 8th 2022,IEM Road to Rio 2022 Americas RMR,Mirage,16,12,fer,iDk,26-16,25-18
+81,Imperial,TeamOne,2 - 1,Results for October 8th 2022,IEM Road to Rio 2022 Americas RMR,Mirage,16,12,chelo,trk,20-16,18-20
+82,Imperial,TeamOne,2 - 1,Results for October 8th 2022,IEM Road to Rio 2022 Americas RMR,Mirage,16,12,boltz,pesadelo,18-18,15-20
+83,Imperial,TeamOne,2 - 1,Results for October 8th 2022,IEM Road to Rio 2022 Americas RMR,Mirage,16,12,FalleN,malbsMd,20-15,15-21
+84,Imperial,TeamOne,2 - 1,Results for October 8th 2022,IEM Road to Rio 2022 Americas RMR,Mirage,16,12,VINI,Maluk3,17-18,10-22
+85,Imperial,TeamOne,2 - 1,Results for October 8th 2022,IEM Road to Rio 2022 Americas RMR,Inferno,16,19,fer,iDk,28-24,34-24
+86,Imperial,TeamOne,2 - 1,Results for October 8th 2022,IEM Road to Rio 2022 Americas RMR,Inferno,16,19,boltz,Maluk3,23-23,21-18
+87,Imperial,TeamOne,2 - 1,Results for October 8th 2022,IEM Road to Rio 2022 Americas RMR,Inferno,16,19,chelo,malbsMd,23-23,19-27
+88,Imperial,TeamOne,2 - 1,Results for October 8th 2022,IEM Road to Rio 2022 Americas RMR,Inferno,16,19,FalleN,trk,20-21,19-23
+89,Imperial,TeamOne,2 - 1,Results for October 8th 2022,IEM Road to Rio 2022 Americas RMR,Inferno,16,19,VINI,pesadelo,19-25,22-22
+90,Imperial,TeamOne,2 - 1,Results for October 8th 2022,IEM Road to Rio 2022 Americas RMR,Overpass,16,11,chelo,Maluk3,27-15,21-19
+91,Imperial,TeamOne,2 - 1,Results for October 8th 2022,IEM Road to Rio 2022 Americas RMR,Overpass,16,11,boltz,pesadelo,21-17,16-21
+92,Imperial,TeamOne,2 - 1,Results for October 8th 2022,IEM Road to Rio 2022 Americas RMR,Overpass,16,11,fer,iDk,22-17,17-18
+93,Imperial,TeamOne,2 - 1,Results for October 8th 2022,IEM Road to Rio 2022 Americas RMR,Overpass,16,11,FalleN,trk,16-13,14-20
+94,Imperial,TeamOne,2 - 1,Results for October 8th 2022,IEM Road to Rio 2022 Americas RMR,Overpass,16,11,VINI,malbsMd,13-19,13-22
+95,Imperial,paiN,1 - 2,Results for September 4th 2022,ESL Challenger Melbourne 2022,Overpass,17,19,boltz,skullz,25-24,30-23
+96,Imperial,paiN,1 - 2,Results for September 4th 2022,ESL Challenger Melbourne 2022,Overpass,17,19,FalleN,biguzera,24-24,28-25
+97,Imperial,paiN,1 - 2,Results for September 4th 2022,ESL Challenger Melbourne 2022,Overpass,17,19,VINI,PKL,22-23,24-23
+98,Imperial,paiN,1 - 2,Results for September 4th 2022,ESL Challenger Melbourne 2022,Overpass,17,19,fer,zevy,23-27,22-26
+99,Imperial,paiN,1 - 2,Results for September 4th 2022,ESL Challenger Melbourne 2022,Overpass,17,19,chelo,hardzao,29-25,19-27
+100,Imperial,paiN,1 - 2,Results for September 4th 2022,ESL Challenger Melbourne 2022,Nuke,16,7,FalleN,biguzera,24-8,17-18
+101,Imperial,paiN,1 - 2,Results for September 4th 2022,ESL Challenger Melbourne 2022,Nuke,16,7,chelo,zevy,20-10,16-19
+102,Imperial,paiN,1 - 2,Results for September 4th 2022,ESL Challenger Melbourne 2022,Nuke,16,7,fer,hardzao,17-12,9-17
+103,Imperial,paiN,1 - 2,Results for September 4th 2022,ESL Challenger Melbourne 2022,Nuke,16,7,VINI,skullz,22-15,9-22
+104,Imperial,paiN,1 - 2,Results for September 4th 2022,ESL Challenger Melbourne 2022,Nuke,16,7,boltz,PKL,13-13,7-20
+105,Imperial,paiN,1 - 2,Results for September 4th 2022,ESL Challenger Melbourne 2022,Dust2,12,16,chelo,skullz,21-22,22-11
+106,Imperial,paiN,1 - 2,Results for September 4th 2022,ESL Challenger Melbourne 2022,Dust2,12,16,boltz,hardzao,14-17,23-16
+107,Imperial,paiN,1 - 2,Results for September 4th 2022,ESL Challenger Melbourne 2022,Dust2,12,16,FalleN,biguzera,16-19,18-14
+108,Imperial,paiN,1 - 2,Results for September 4th 2022,ESL Challenger Melbourne 2022,Dust2,12,16,fer,zevy,16-17,19-18
+109,Imperial,paiN,1 - 2,Results for September 4th 2022,ESL Challenger Melbourne 2022,Dust2,12,16,VINI,PKL,12-19,12-20
+110,Imperial,Entropiq,2 - 0,Results for September 4th 2022,ESL Challenger Melbourne 2022,Overpass,16,11,FalleN,Forester,23-13,22-18
+111,Imperial,Entropiq,2 - 0,Results for September 4th 2022,ESL Challenger Melbourne 2022,Overpass,16,11,chelo,El1an,20-17,16-17
+112,Imperial,Entropiq,2 - 0,Results for September 4th 2022,ESL Challenger Melbourne 2022,Overpass,16,11,boltz,mir,21-13,19-23
+113,Imperial,Entropiq,2 - 0,Results for September 4th 2022,ESL Challenger Melbourne 2022,Overpass,16,11,fer,NickelBack,18-20,13-18
+114,Imperial,Entropiq,2 - 0,Results for September 4th 2022,ESL Challenger Melbourne 2022,Overpass,16,11,VINI,Krad,12-18,11-18
+115,Imperial,Entropiq,2 - 0,Results for September 4th 2022,ESL Challenger Melbourne 2022,Dust2,16,6,chelo,mir,29-14,17-18
+116,Imperial,Entropiq,2 - 0,Results for September 4th 2022,ESL Challenger Melbourne 2022,Dust2,16,6,FalleN,El1an,20-9,11-15
+117,Imperial,Entropiq,2 - 0,Results for September 4th 2022,ESL Challenger Melbourne 2022,Dust2,16,6,VINI,Krad,22-12,12-19
+118,Imperial,Entropiq,2 - 0,Results for September 4th 2022,ESL Challenger Melbourne 2022,Dust2,16,6,boltz,Forester,8-11,11-19
+119,Imperial,Entropiq,2 - 0,Results for September 4th 2022,ESL Challenger Melbourne 2022,Dust2,16,6,fer,NickelBack,11-15,9-19
+120,Imperial,Grayhound,2 - 0,Results for September 3rd 2022,ESL Challenger Melbourne 2022,Inferno,16,8,FalleN,INS,22-9,18-20
+121,Imperial,Grayhound,2 - 0,Results for September 3rd 2022,ESL Challenger Melbourne 2022,Inferno,16,8,chelo,Sico,21-13,17-17
+122,Imperial,Grayhound,2 - 0,Results for September 3rd 2022,ESL Challenger Melbourne 2022,Inferno,16,8,fer,Hatz,17-13,8-18
+123,Imperial,Grayhound,2 - 0,Results for September 3rd 2022,ESL Challenger Melbourne 2022,Inferno,16,8,boltz,Liazz,13-10,11-18
+124,Imperial,Grayhound,2 - 0,Results for September 3rd 2022,ESL Challenger Melbourne 2022,Inferno,16,8,VINI,aliStair,15-13,4-17
+125,Imperial,Grayhound,2 - 0,Results for September 3rd 2022,ESL Challenger Melbourne 2022,Nuke,16,12,VINI,INS,27-16,24-23
+126,Imperial,Grayhound,2 - 0,Results for September 3rd 2022,ESL Challenger Melbourne 2022,Nuke,16,12,fer,Liazz,22-18,17-19
+127,Imperial,Grayhound,2 - 0,Results for September 3rd 2022,ESL Challenger Melbourne 2022,Nuke,16,12,FalleN,Sico,22-13,15-20
+128,Imperial,Grayhound,2 - 0,Results for September 3rd 2022,ESL Challenger Melbourne 2022,Nuke,16,12,chelo,aliStair,17-18,13-18
+129,Imperial,Grayhound,2 - 0,Results for September 3rd 2022,ESL Challenger Melbourne 2022,Nuke,16,12,boltz,Hatz,15-16,12-23
+130,Imperial,00NATION,0 - 2,Results for July 6th 2022,IEM Cologne 2022 Play-In,Ancient,12,16,fnx,dumau,19-19,26-18
+131,Imperial,00NATION,0 - 2,Results for July 6th 2022,IEM Cologne 2022 Play-In,Ancient,12,16,fer,try,15-18,24-16
+132,Imperial,00NATION,0 - 2,Results for July 6th 2022,IEM Cologne 2022 Play-In,Ancient,12,16,VINI,latto,15-18,17-15
+133,Imperial,00NATION,0 - 2,Results for July 6th 2022,IEM Cologne 2022 Play-In,Ancient,12,16,boltz,TACO,15-19,14-15
+134,Imperial,00NATION,0 - 2,Results for July 6th 2022,IEM Cologne 2022 Play-In,Ancient,12,16,FalleN,coldzera,17-19,10-17
+135,Imperial,00NATION,0 - 2,Results for July 6th 2022,IEM Cologne 2022 Play-In,Overpass,12,16,fnx,try,18-15,23-12
+136,Imperial,00NATION,0 - 2,Results for July 6th 2022,IEM Cologne 2022 Play-In,Overpass,12,16,boltz,latto,19-15,24-11
+137,Imperial,00NATION,0 - 2,Results for July 6th 2022,IEM Cologne 2022 Play-In,Overpass,12,16,VINI,coldzera,13-18,17-16
+138,Imperial,00NATION,0 - 2,Results for July 6th 2022,IEM Cologne 2022 Play-In,Overpass,12,16,FalleN,TACO,14-19,12-16
+139,Imperial,00NATION,0 - 2,Results for July 6th 2022,IEM Cologne 2022 Play-In,Overpass,12,16,fer,dumau,10-20,11-19
+140,Imperial,ORDER,2 - 1,Results for July 6th 2022,IEM Cologne 2022 Play-In,Inferno,8,16,FalleN,aliStair,17-15,22-12
+141,Imperial,ORDER,2 - 1,Results for July 6th 2022,IEM Cologne 2022 Play-In,Inferno,8,16,boltz,Liazz,16-14,17-11
+142,Imperial,ORDER,2 - 1,Results for July 6th 2022,IEM Cologne 2022 Play-In,Inferno,8,16,VINI,Sico,14-19,14-13
+143,Imperial,ORDER,2 - 1,Results for July 6th 2022,IEM Cologne 2022 Play-In,Inferno,8,16,fer,INS,13-17,16-15
+144,Imperial,ORDER,2 - 1,Results for July 6th 2022,IEM Cologne 2022 Play-In,Inferno,8,16,fnx,Hatz,5-18,14-14
+145,Imperial,ORDER,2 - 1,Results for July 6th 2022,IEM Cologne 2022 Play-In,Mirage,16,8,boltz,Hatz,21-13,18-17
+146,Imperial,ORDER,2 - 1,Results for July 6th 2022,IEM Cologne 2022 Play-In,Mirage,16,8,fer,Liazz,18-12,15-17
+147,Imperial,ORDER,2 - 1,Results for July 6th 2022,IEM Cologne 2022 Play-In,Mirage,16,8,VINI,INS,18-15,13-18
+148,Imperial,ORDER,2 - 1,Results for July 6th 2022,IEM Cologne 2022 Play-In,Mirage,16,8,FalleN,aliStair,14-12,13-17
+149,Imperial,ORDER,2 - 1,Results for July 6th 2022,IEM Cologne 2022 Play-In,Mirage,16,8,fnx,Sico,12-17,10-14
+150,Imperial,ORDER,2 - 1,Results for July 6th 2022,IEM Cologne 2022 Play-In,Nuke,16,11,fer,INS,24-16,18-17
+151,Imperial,ORDER,2 - 1,Results for July 6th 2022,IEM Cologne 2022 Play-In,Nuke,16,11,FalleN,Sico,20-17,21-18
+152,Imperial,ORDER,2 - 1,Results for July 6th 2022,IEM Cologne 2022 Play-In,Nuke,16,11,VINI,Liazz,21-17,15-18
+153,Imperial,ORDER,2 - 1,Results for July 6th 2022,IEM Cologne 2022 Play-In,Nuke,16,11,fnx,aliStair,17-16,17-22
+154,Imperial,ORDER,2 - 1,Results for July 6th 2022,IEM Cologne 2022 Play-In,Nuke,16,11,boltz,Hatz,11-18,13-20
+155,Imperial,Eternal Fire,1 - 2,Results for June 25th 2022,Roobet Cup 2022,Nuke,16,7,FalleN,Calyx,17-11,16-15
+156,Imperial,Eternal Fire,1 - 2,Results for June 25th 2022,Roobet Cup 2022,Nuke,16,7,fer,imoRR,19-10,13-19
+157,Imperial,Eternal Fire,1 - 2,Results for June 25th 2022,Roobet Cup 2022,Nuke,16,7,boltz,woxic,18-14,12-16
+158,Imperial,Eternal Fire,1 - 2,Results for June 25th 2022,Roobet Cup 2022,Nuke,16,7,fnx,XANTARES,17-12,15-20
+159,Imperial,Eternal Fire,1 - 2,Results for June 25th 2022,Roobet Cup 2022,Nuke,16,7,VINI,xfl0ud,17-16,7-18
+160,Imperial,Eternal Fire,1 - 2,Results for June 25th 2022,Roobet Cup 2022,Mirage,23,25,FalleN,woxic,43-30,37-28
+161,Imperial,Eternal Fire,1 - 2,Results for June 25th 2022,Roobet Cup 2022,Mirage,23,25,fer,XANTARES,35-33,39-32
+162,Imperial,Eternal Fire,1 - 2,Results for June 25th 2022,Roobet Cup 2022,Mirage,23,25,VINI,imoRR,32-35,32-36
+163,Imperial,Eternal Fire,1 - 2,Results for June 25th 2022,Roobet Cup 2022,Mirage,23,25,boltz,xfl0ud,27-34,31-33
+164,Imperial,Eternal Fire,1 - 2,Results for June 25th 2022,Roobet Cup 2022,Mirage,23,25,fnx,Calyx,24-36,29-34
+165,Imperial,Eternal Fire,1 - 2,Results for June 25th 2022,Roobet Cup 2022,Vertigo,13,16,fer,XANTARES,27-18,19-18
+166,Imperial,Eternal Fire,1 - 2,Results for June 25th 2022,Roobet Cup 2022,Vertigo,13,16,VINI,woxic,19-17,20-18
+167,Imperial,Eternal Fire,1 - 2,Results for June 25th 2022,Roobet Cup 2022,Vertigo,13,16,fnx,Calyx,17-19,19-17
+168,Imperial,Eternal Fire,1 - 2,Results for June 25th 2022,Roobet Cup 2022,Vertigo,13,16,boltz,imoRR,17-22,18-20
+169,Imperial,Eternal Fire,1 - 2,Results for June 25th 2022,Roobet Cup 2022,Vertigo,13,16,FalleN,xfl0ud,12-21,20-20
+170,Imperial,MOUZ,0 - 2,Results for June 23rd 2022,Roobet Cup 2022,Nuke,11,16,fer,torzsi,25-17,21-16
+171,Imperial,MOUZ,0 - 2,Results for June 23rd 2022,Roobet Cup 2022,Nuke,11,16,boltz,frozen,15-16,21-17
+172,Imperial,MOUZ,0 - 2,Results for June 23rd 2022,Roobet Cup 2022,Nuke,11,16,FalleN,Bymas,17-18,21-18
+173,Imperial,MOUZ,0 - 2,Results for June 23rd 2022,Roobet Cup 2022,Nuke,11,16,VINI,JDC,17-19,15-18
+174,Imperial,MOUZ,0 - 2,Results for June 23rd 2022,Roobet Cup 2022,Nuke,11,16,fnx,dexter,12-19,11-18
+175,Imperial,MOUZ,0 - 2,Results for June 23rd 2022,Roobet Cup 2022,Inferno,7,16,VINI,frozen,15-16,22-12
+176,Imperial,MOUZ,0 - 2,Results for June 23rd 2022,Roobet Cup 2022,Inferno,7,16,boltz,dexter,17-19,20-12
+177,Imperial,MOUZ,0 - 2,Results for June 23rd 2022,Roobet Cup 2022,Inferno,7,16,FalleN,torzsi,9-15,17-9
+178,Imperial,MOUZ,0 - 2,Results for June 23rd 2022,Roobet Cup 2022,Inferno,7,16,fnx,Bymas,6-17,17-10
+179,Imperial,MOUZ,0 - 2,Results for June 23rd 2022,Roobet Cup 2022,Inferno,7,16,fer,JDC,10-19,10-14
+180,Imperial,forZe,0 - 2,Results for June 22nd 2022,REPUBLEAGUE Season 3,Dust2,18,22,fer,shalfey,40-27,33-27
+181,Imperial,forZe,0 - 2,Results for June 22nd 2022,REPUBLEAGUE Season 3,Dust2,18,22,boltz,zorte,27-26,29-23
+182,Imperial,forZe,0 - 2,Results for June 22nd 2022,REPUBLEAGUE Season 3,Dust2,18,22,FalleN,Jerry,23-26,28-25
+183,Imperial,forZe,0 - 2,Results for June 22nd 2022,REPUBLEAGUE Season 3,Dust2,18,22,fnx,Norwi,28-27,25-28
+184,Imperial,forZe,0 - 2,Results for June 22nd 2022,REPUBLEAGUE Season 3,Dust2,18,22,VINI,KENSI,13-28,19-28
+185,Imperial,forZe,0 - 2,Results for June 22nd 2022,REPUBLEAGUE Season 3,Mirage,7,16,FalleN,Jerry,11-19,22-13
+186,Imperial,forZe,0 - 2,Results for June 22nd 2022,REPUBLEAGUE Season 3,Mirage,7,16,VINI,zorte,15-20,22-12
+187,Imperial,forZe,0 - 2,Results for June 22nd 2022,REPUBLEAGUE Season 3,Mirage,7,16,boltz,KENSI,12-18,20-11
+188,Imperial,forZe,0 - 2,Results for June 22nd 2022,REPUBLEAGUE Season 3,Mirage,7,16,fnx,shalfey,10-18,17-11
+189,Imperial,forZe,0 - 2,Results for June 22nd 2022,REPUBLEAGUE Season 3,Mirage,7,16,fer,Norwi,7-19,13-9
+190,Imperial,Enterprise,1 - 2,Results for June 21st 2022,REPUBLEAGUE Season 3,Mirage,9,16,VINI,h4rn,14-20,32-12
+191,Imperial,Enterprise,1 - 2,Results for June 21st 2022,REPUBLEAGUE Season 3,Mirage,9,16,fer,manguss,13-19,20-12
+192,Imperial,Enterprise,1 - 2,Results for June 21st 2022,REPUBLEAGUE Season 3,Mirage,9,16,fnx,Blytz,16-19,17-16
+193,Imperial,Enterprise,1 - 2,Results for June 21st 2022,REPUBLEAGUE Season 3,Mirage,9,16,FalleN,stinx,12-16,11-12
+194,Imperial,Enterprise,1 - 2,Results for June 21st 2022,REPUBLEAGUE Season 3,Mirage,9,16,boltz,The eLiVe,13-18,12-16
+195,Imperial,Enterprise,1 - 2,Results for June 21st 2022,REPUBLEAGUE Season 3,Inferno,16,7,VINI,manguss,22-11,18-16
+196,Imperial,Enterprise,1 - 2,Results for June 21st 2022,REPUBLEAGUE Season 3,Inferno,16,7,FalleN,Blytz,22-9,13-16
+197,Imperial,Enterprise,1 - 2,Results for June 21st 2022,REPUBLEAGUE Season 3,Inferno,16,7,boltz,stinx,16-13,10-18
+198,Imperial,Enterprise,1 - 2,Results for June 21st 2022,REPUBLEAGUE Season 3,Inferno,16,7,fer,The eLiVe,12-17,11-17
+199,Imperial,Enterprise,1 - 2,Results for June 21st 2022,REPUBLEAGUE Season 3,Inferno,16,7,fnx,h4rn,12-13,10-18
+200,Imperial,Enterprise,1 - 2,Results for June 21st 2022,REPUBLEAGUE Season 3,Overpass,20,22,VINI,manguss,31-28,38-25
+201,Imperial,Enterprise,1 - 2,Results for June 21st 2022,REPUBLEAGUE Season 3,Overpass,20,22,boltz,Blytz,32-27,30-32
+202,Imperial,Enterprise,1 - 2,Results for June 21st 2022,REPUBLEAGUE Season 3,Overpass,20,22,FalleN,h4rn,28-26,26-25
+203,Imperial,Enterprise,1 - 2,Results for June 21st 2022,REPUBLEAGUE Season 3,Overpass,20,22,fnx,The eLiVe,25-29,25-26
+204,Imperial,Enterprise,1 - 2,Results for June 21st 2022,REPUBLEAGUE Season 3,Overpass,20,22,fer,stinx,20-33,23-29
+205,Imperial,Finest,0 - 2,Results for June 9th 2022,Pinnacle Cup Championship 2022,Overpass,9,16,boltz,PlesseN,23-17,24-17
+206,Imperial,Finest,0 - 2,Results for June 9th 2022,Pinnacle Cup Championship 2022,Overpass,9,16,FalleN,anarkez,18-17,23-16
+207,Imperial,Finest,0 - 2,Results for June 9th 2022,Pinnacle Cup Championship 2022,Overpass,9,16,fer,kreaz,17-18,16-15
+208,Imperial,Finest,0 - 2,Results for June 9th 2022,Pinnacle Cup Championship 2022,Overpass,9,16,fnx,shokz,10-19,15-12
+209,Imperial,Finest,0 - 2,Results for June 9th 2022,Pinnacle Cup Championship 2022,Overpass,9,16,VINI,twist,9-20,13-17
+210,Imperial,Finest,0 - 2,Results for June 9th 2022,Pinnacle Cup Championship 2022,Vertigo,9,16,boltz,PlesseN,19-16,26-18
+211,Imperial,Finest,0 - 2,Results for June 9th 2022,Pinnacle Cup Championship 2022,Vertigo,9,16,fer,shokz,14-18,15-11
+212,Imperial,Finest,0 - 2,Results for June 9th 2022,Pinnacle Cup Championship 2022,Vertigo,9,16,fnx,anarkez,13-18,16-14
+213,Imperial,Finest,0 - 2,Results for June 9th 2022,Pinnacle Cup Championship 2022,Vertigo,9,16,VINI,kreaz,15-19,18-15
+214,Imperial,Finest,0 - 2,Results for June 9th 2022,Pinnacle Cup Championship 2022,Vertigo,9,16,FalleN,twist,11-18,14-14
+215,Imperial,Astralis,1 - 2,Results for June 9th 2022,Pinnacle Cup Championship 2022,Nuke,14,16,fer,blameF,29-22,35-20
+216,Imperial,Astralis,1 - 2,Results for June 9th 2022,Pinnacle Cup Championship 2022,Nuke,14,16,VINI,Farlig,18-21,19-21
+217,Imperial,Astralis,1 - 2,Results for June 9th 2022,Pinnacle Cup Championship 2022,Nuke,14,16,boltz,Xyp9x,18-22,16-21
+218,Imperial,Astralis,1 - 2,Results for June 9th 2022,Pinnacle Cup Championship 2022,Nuke,14,16,FalleN,gla1ve,14-17,17-20
+219,Imperial,Astralis,1 - 2,Results for June 9th 2022,Pinnacle Cup Championship 2022,Nuke,14,16,fnx,k0nfig,20-20,15-19
+220,Imperial,Astralis,1 - 2,Results for June 9th 2022,Pinnacle Cup Championship 2022,Mirage,16,6,fer,blameF,22-14,23-12
+221,Imperial,Astralis,1 - 2,Results for June 9th 2022,Pinnacle Cup Championship 2022,Mirage,16,6,VINI,Farlig,14-11,12-17
+222,Imperial,Astralis,1 - 2,Results for June 9th 2022,Pinnacle Cup Championship 2022,Mirage,16,6,fnx,k0nfig,16-14,11-17
+223,Imperial,Astralis,1 - 2,Results for June 9th 2022,Pinnacle Cup Championship 2022,Mirage,16,6,boltz,gla1ve,16-12,9-17
+224,Imperial,Astralis,1 - 2,Results for June 9th 2022,Pinnacle Cup Championship 2022,Mirage,16,6,FalleN,Xyp9x,10-12,7-15
+225,Imperial,Astralis,1 - 2,Results for June 9th 2022,Pinnacle Cup Championship 2022,Overpass,13,16,boltz,blameF,28-15,23-18
+226,Imperial,Astralis,1 - 2,Results for June 9th 2022,Pinnacle Cup Championship 2022,Overpass,13,16,VINI,Xyp9x,21-16,17-17
+227,Imperial,Astralis,1 - 2,Results for June 9th 2022,Pinnacle Cup Championship 2022,Overpass,13,16,fer,Farlig,23-21,21-15
+228,Imperial,Astralis,1 - 2,Results for June 9th 2022,Pinnacle Cup Championship 2022,Overpass,13,16,fnx,k0nfig,9-17,17-19
+229,Imperial,Astralis,1 - 2,Results for June 9th 2022,Pinnacle Cup Championship 2022,Overpass,13,16,FalleN,gla1ve,5-20,10-22
+230,Imperial,Liquid,0 - 2,Results for May 31st 2022,IEM Dallas 2022,Overpass,9,16,fer,NAF,17-19,24-13
+231,Imperial,Liquid,0 - 2,Results for May 31st 2022,IEM Dallas 2022,Overpass,9,16,VINI,oSee,15-20,20-12
+232,Imperial,Liquid,0 - 2,Results for May 31st 2022,IEM Dallas 2022,Overpass,9,16,boltz,EliGE,14-18,22-16
+233,Imperial,Liquid,0 - 2,Results for May 31st 2022,IEM Dallas 2022,Overpass,9,16,FalleN,shox,17-19,19-19
+234,Imperial,Liquid,0 - 2,Results for May 31st 2022,IEM Dallas 2022,Overpass,9,16,fnx,nitr0,11-18,9-14
+235,Imperial,Liquid,0 - 2,Results for May 31st 2022,IEM Dallas 2022,Vertigo,9,16,boltz,EliGE,24-18,22-13
+236,Imperial,Liquid,0 - 2,Results for May 31st 2022,IEM Dallas 2022,Vertigo,9,16,FalleN,NAF,12-18,22-14
+237,Imperial,Liquid,0 - 2,Results for May 31st 2022,IEM Dallas 2022,Vertigo,9,16,fnx,oSee,14-22,17-14
+238,Imperial,Liquid,0 - 2,Results for May 31st 2022,IEM Dallas 2022,Vertigo,9,16,fer,shox,14-20,19-18
+239,Imperial,Liquid,0 - 2,Results for May 31st 2022,IEM Dallas 2022,Vertigo,9,16,VINI,nitr0,10-18,16-15
+240,Imperial,TeamOne,0 - 2,Results for May 23rd 2022,ESL Challenger Valencia 2022 North America Open Qualifier 2,Nuke,10,16,FalleN,xns,23-17,18-16
+241,Imperial,TeamOne,0 - 2,Results for May 23rd 2022,ESL Challenger Valencia 2022 North America Open Qualifier 2,Nuke,10,16,boltz,trk,15-17,21-13
+242,Imperial,TeamOne,0 - 2,Results for May 23rd 2022,ESL Challenger Valencia 2022 North America Open Qualifier 2,Nuke,10,16,fer,iDk,16-19,21-15
+243,Imperial,TeamOne,0 - 2,Results for May 23rd 2022,ESL Challenger Valencia 2022 North America Open Qualifier 2,Nuke,10,16,VINI,Maluk3,11-18,15-14
+244,Imperial,TeamOne,0 - 2,Results for May 23rd 2022,ESL Challenger Valencia 2022 North America Open Qualifier 2,Nuke,10,16,fnx,pesadelo,11-18,14-18
+245,Imperial,TeamOne,0 - 2,Results for May 23rd 2022,ESL Challenger Valencia 2022 North America Open Qualifier 2,Inferno,14,16,boltz,trk,25-21,26-15
+246,Imperial,TeamOne,0 - 2,Results for May 23rd 2022,ESL Challenger Valencia 2022 North America Open Qualifier 2,Inferno,14,16,fer,xns,23-20,21-18
+247,Imperial,TeamOne,0 - 2,Results for May 23rd 2022,ESL Challenger Valencia 2022 North America Open Qualifier 2,Inferno,14,16,FalleN,Maluk3,21-19,22-22
+248,Imperial,TeamOne,0 - 2,Results for May 23rd 2022,ESL Challenger Valencia 2022 North America Open Qualifier 2,Inferno,14,16,fnx,pesadelo,14-20,18-21
+249,Imperial,TeamOne,0 - 2,Results for May 23rd 2022,ESL Challenger Valencia 2022 North America Open Qualifier 2,Inferno,14,16,VINI,iDk,10-19,12-18
+250,Imperial,Copenhagen Flames,0 - 2,Results for May 17th 2022,PGL Major Antwerp 2022,Inferno,2,16,VINI,Zyphon,17-15,20-3
+251,Imperial,Copenhagen Flames,0 - 2,Results for May 17th 2022,PGL Major Antwerp 2022,Inferno,2,16,boltz,roeJ,7-15,15-8
+252,Imperial,Copenhagen Flames,0 - 2,Results for May 17th 2022,PGL Major Antwerp 2022,Inferno,2,16,fer,nicoodoz,10-17,19-9
+253,Imperial,Copenhagen Flames,0 - 2,Results for May 17th 2022,PGL Major Antwerp 2022,Inferno,2,16,FalleN,HooXi,6-15,10-11
+254,Imperial,Copenhagen Flames,0 - 2,Results for May 17th 2022,PGL Major Antwerp 2022,Inferno,2,16,fnx,jabbi,4-15,12-13
+255,Imperial,Copenhagen Flames,0 - 2,Results for May 17th 2022,PGL Major Antwerp 2022,Vertigo,18,22,boltz,Zyphon,29-23,34-21
+256,Imperial,Copenhagen Flames,0 - 2,Results for May 17th 2022,PGL Major Antwerp 2022,Vertigo,18,22,fer,jabbi,29-30,28-23
+257,Imperial,Copenhagen Flames,0 - 2,Results for May 17th 2022,PGL Major Antwerp 2022,Vertigo,18,22,VINI,nicoodoz,24-25,30-26
+258,Imperial,Copenhagen Flames,0 - 2,Results for May 17th 2022,PGL Major Antwerp 2022,Vertigo,18,22,FalleN,roeJ,22-31,21-26
+259,Imperial,Copenhagen Flames,0 - 2,Results for May 17th 2022,PGL Major Antwerp 2022,Vertigo,18,22,fnx,HooXi,16-25,20-24
+260,Imperial,Cloud9,2 - 1,Results for May 17th 2022,PGL Major Antwerp 2022,Overpass,25,23,fer,Ax1Le,33-29,36-30
+261,Imperial,Cloud9,2 - 1,Results for May 17th 2022,PGL Major Antwerp 2022,Overpass,25,23,FalleN,sh1ro,35-28,37-27
+262,Imperial,Cloud9,2 - 1,Results for May 17th 2022,PGL Major Antwerp 2022,Overpass,25,23,VINI,nafany,31-29,31-34
+263,Imperial,Cloud9,2 - 1,Results for May 17th 2022,PGL Major Antwerp 2022,Overpass,25,23,boltz,interz,26-28,23-24
+264,Imperial,Cloud9,2 - 1,Results for May 17th 2022,PGL Major Antwerp 2022,Overpass,25,23,fnx,HObbit,20-39,25-30
+265,Imperial,Cloud9,2 - 1,Results for May 17th 2022,PGL Major Antwerp 2022,Vertigo,9,16,fer,HObbit,21-19,23-13
+266,Imperial,Cloud9,2 - 1,Results for May 17th 2022,PGL Major Antwerp 2022,Vertigo,9,16,FalleN,Ax1Le,12-18,21-15
+267,Imperial,Cloud9,2 - 1,Results for May 17th 2022,PGL Major Antwerp 2022,Vertigo,9,16,boltz,sh1ro,11-18,16-10
+268,Imperial,Cloud9,2 - 1,Results for May 17th 2022,PGL Major Antwerp 2022,Vertigo,9,16,fnx,nafany,10-17,18-13
+269,Imperial,Cloud9,2 - 1,Results for May 17th 2022,PGL Major Antwerp 2022,Vertigo,9,16,VINI,interz,9-23,17-13
+270,Imperial,Cloud9,2 - 1,Results for May 17th 2022,PGL Major Antwerp 2022,Mirage,16,3,fer,nafany,25-8,14-15
+271,Imperial,Cloud9,2 - 1,Results for May 17th 2022,PGL Major Antwerp 2022,Mirage,16,3,VINI,Ax1Le,20-9,9-16
+272,Imperial,Cloud9,2 - 1,Results for May 17th 2022,PGL Major Antwerp 2022,Mirage,16,3,FalleN,HObbit,14-6,7-18
+273,Imperial,Cloud9,2 - 1,Results for May 17th 2022,PGL Major Antwerp 2022,Mirage,16,3,fnx,sh1ro,15-6,6-16
+274,Imperial,Cloud9,2 - 1,Results for May 17th 2022,PGL Major Antwerp 2022,Mirage,16,3,boltz,interz,8-12,4-17
+275,Imperial,Bad News Eagles,2 - 0,Results for May 15th 2022,PGL Major Antwerp 2022,Inferno,16,13,fer,rigoN,26-16,26-20
+276,Imperial,Bad News Eagles,2 - 0,Results for May 15th 2022,PGL Major Antwerp 2022,Inferno,16,13,boltz,SENER1,25-20,14-19
+277,Imperial,Bad News Eagles,2 - 0,Results for May 15th 2022,PGL Major Antwerp 2022,Inferno,16,13,VINI,gxx-,17-18,17-16
+278,Imperial,Bad News Eagles,2 - 0,Results for May 15th 2022,PGL Major Antwerp 2022,Inferno,16,13,FalleN,sinnopsyy,19-16,17-23
+279,Imperial,Bad News Eagles,2 - 0,Results for May 15th 2022,PGL Major Antwerp 2022,Inferno,16,13,fnx,juanflatroo,10-17,13-19
+280,Imperial,Bad News Eagles,2 - 0,Results for May 15th 2022,PGL Major Antwerp 2022,Mirage,16,14,fer,rigoN,24-17,28-25
+281,Imperial,Bad News Eagles,2 - 0,Results for May 15th 2022,PGL Major Antwerp 2022,Mirage,16,14,boltz,SENER1,26-19,18-20
+282,Imperial,Bad News Eagles,2 - 0,Results for May 15th 2022,PGL Major Antwerp 2022,Mirage,16,14,FalleN,sinnopsyy,21-15,21-23
+283,Imperial,Bad News Eagles,2 - 0,Results for May 15th 2022,PGL Major Antwerp 2022,Mirage,16,14,VINI,gxx-,20-20,9-20
+284,Imperial,Bad News Eagles,2 - 0,Results for May 15th 2022,PGL Major Antwerp 2022,Mirage,16,14,fnx,juanflatroo,18-17,12-22
+285,Imperial,forZe,2 - 0,Results for May 12th 2022,PGL Major Antwerp 2022 Challengers Stage,Overpass,16,5,FalleN,KENSI,18-8,16-16
+286,Imperial,forZe,2 - 0,Results for May 12th 2022,PGL Major Antwerp 2022 Challengers Stage,Overpass,16,5,boltz,Norwi,12-10,11-13
+287,Imperial,forZe,2 - 0,Results for May 12th 2022,PGL Major Antwerp 2022 Challengers Stage,Overpass,16,5,VINI,Jerry,15-11,8-15
+288,Imperial,forZe,2 - 0,Results for May 12th 2022,PGL Major Antwerp 2022 Challengers Stage,Overpass,16,5,fer,shalfey,17-11,10-18
+289,Imperial,forZe,2 - 0,Results for May 12th 2022,PGL Major Antwerp 2022 Challengers Stage,Overpass,16,5,fnx,zorte,13-12,7-13
+290,Imperial,forZe,2 - 0,Results for May 12th 2022,PGL Major Antwerp 2022 Challengers Stage,Mirage,16,5,FalleN,KENSI,21-8,15-17
+291,Imperial,forZe,2 - 0,Results for May 12th 2022,PGL Major Antwerp 2022 Challengers Stage,Mirage,16,5,VINI,zorte,19-8,13-17
+292,Imperial,forZe,2 - 0,Results for May 12th 2022,PGL Major Antwerp 2022 Challengers Stage,Mirage,16,5,boltz,Norwi,16-9,9-15
+293,Imperial,forZe,2 - 0,Results for May 12th 2022,PGL Major Antwerp 2022 Challengers Stage,Mirage,16,5,fer,shalfey,16-14,6-17
+294,Imperial,forZe,2 - 0,Results for May 12th 2022,PGL Major Antwerp 2022 Challengers Stage,Mirage,16,5,fnx,Jerry,10-9,5-16
+295,Imperial,IHC,2 - 1,Results for May 11th 2022,PGL Major Antwerp 2022 Challengers Stage,Mirage,11,16,FalleN,sk0R,22-19,30-14
+296,Imperial,IHC,2 - 1,Results for May 11th 2022,PGL Major Antwerp 2022 Challengers Stage,Mirage,11,16,boltz,nin9,21-18,20-17
+297,Imperial,IHC,2 - 1,Results for May 11th 2022,PGL Major Antwerp 2022 Challengers Stage,Mirage,11,16,fer,bLitz,16-21,20-19
+298,Imperial,IHC,2 - 1,Results for May 11th 2022,PGL Major Antwerp 2022 Challengers Stage,Mirage,11,16,fnx,kabal,14-20,14-17
+299,Imperial,IHC,2 - 1,Results for May 11th 2022,PGL Major Antwerp 2022 Challengers Stage,Mirage,11,16,VINI,Techno,12-19,13-20
+300,Imperial,IHC,2 - 1,Results for May 11th 2022,PGL Major Antwerp 2022 Challengers Stage,Overpass,16,10,boltz,kabal,26-13,18-16
+301,Imperial,IHC,2 - 1,Results for May 11th 2022,PGL Major Antwerp 2022 Challengers Stage,Overpass,16,10,VINI,bLitz,14-12,18-18
+302,Imperial,IHC,2 - 1,Results for May 11th 2022,PGL Major Antwerp 2022 Challengers Stage,Overpass,16,10,FalleN,nin9,17-14,18-16
+303,Imperial,IHC,2 - 1,Results for May 11th 2022,PGL Major Antwerp 2022 Challengers Stage,Overpass,16,10,fnx,sk0R,15-14,10-20
+304,Imperial,IHC,2 - 1,Results for May 11th 2022,PGL Major Antwerp 2022 Challengers Stage,Overpass,16,10,fer,Techno,18-17,6-20
+305,Imperial,IHC,2 - 1,Results for May 11th 2022,PGL Major Antwerp 2022 Challengers Stage,Inferno,16,12,FalleN,kabal,23-13,17-18
+306,Imperial,IHC,2 - 1,Results for May 11th 2022,PGL Major Antwerp 2022 Challengers Stage,Inferno,16,12,boltz,nin9,19-13,16-15
+307,Imperial,IHC,2 - 1,Results for May 11th 2022,PGL Major Antwerp 2022 Challengers Stage,Inferno,16,12,VINI,Techno,17-18,16-19
+308,Imperial,IHC,2 - 1,Results for May 11th 2022,PGL Major Antwerp 2022 Challengers Stage,Inferno,16,12,fer,bLitz,15-17,17-20
+309,Imperial,IHC,2 - 1,Results for May 11th 2022,PGL Major Antwerp 2022 Challengers Stage,Inferno,16,12,fnx,sk0R,17-17,11-19
+310,Imperial,MIBR,2 - 1,Results for April 25th 2022,IEM Dallas 2022 South America Closed Qualifier,Vertigo,16,6,fer,JOTA,23-9,14-18
+311,Imperial,MIBR,2 - 1,Results for April 25th 2022,IEM Dallas 2022 South America Closed Qualifier,Vertigo,16,6,boltz,chelo,20-10,15-20
+312,Imperial,MIBR,2 - 1,Results for April 25th 2022,IEM Dallas 2022 South America Closed Qualifier,Vertigo,16,6,fnx,exit,21-12,11-14
+313,Imperial,MIBR,2 - 1,Results for April 25th 2022,IEM Dallas 2022 South America Closed Qualifier,Vertigo,16,6,VINI,WOOD7,15-12,9-18
+314,Imperial,MIBR,2 - 1,Results for April 25th 2022,IEM Dallas 2022 South America Closed Qualifier,Vertigo,16,6,FalleN,Tuurtle,9-12,6-18
+315,Imperial,MIBR,2 - 1,Results for April 25th 2022,IEM Dallas 2022 South America Closed Qualifier,Inferno,14,16,boltz,chelo,23-20,20-17
+316,Imperial,MIBR,2 - 1,Results for April 25th 2022,IEM Dallas 2022 South America Closed Qualifier,Inferno,14,16,fer,JOTA,19-20,26-19
+317,Imperial,MIBR,2 - 1,Results for April 25th 2022,IEM Dallas 2022 South America Closed Qualifier,Inferno,14,16,fnx,exit,23-17,18-20
+318,Imperial,MIBR,2 - 1,Results for April 25th 2022,IEM Dallas 2022 South America Closed Qualifier,Inferno,14,16,VINI,WOOD7,15-18,16-18
+319,Imperial,MIBR,2 - 1,Results for April 25th 2022,IEM Dallas 2022 South America Closed Qualifier,Inferno,14,16,FalleN,Tuurtle,14-19,14-20
+320,Imperial,MIBR,2 - 1,Results for April 25th 2022,IEM Dallas 2022 South America Closed Qualifier,Dust2,16,11,fer,WOOD7,19-18,20-13
+321,Imperial,MIBR,2 - 1,Results for April 25th 2022,IEM Dallas 2022 South America Closed Qualifier,Dust2,16,11,VINI,JOTA,20-14,19-19
+322,Imperial,MIBR,2 - 1,Results for April 25th 2022,IEM Dallas 2022 South America Closed Qualifier,Dust2,16,11,fnx,exit,16-13,13-15
+323,Imperial,MIBR,2 - 1,Results for April 25th 2022,IEM Dallas 2022 South America Closed Qualifier,Dust2,16,11,FalleN,chelo,16-13,11-17
+324,Imperial,MIBR,2 - 1,Results for April 25th 2022,IEM Dallas 2022 South America Closed Qualifier,Dust2,16,11,boltz,Tuurtle,12-18,13-19
+325,Imperial,9z,2 - 0,Results for April 24th 2022,IEM Dallas 2022 South America Closed Qualifier,Nuke,16,6,fer,max,20-13,15-19
+326,Imperial,9z,2 - 0,Results for April 24th 2022,IEM Dallas 2022 South America Closed Qualifier,Nuke,16,6,VINI,dgt,20-11,16-17
+327,Imperial,9z,2 - 0,Results for April 24th 2022,IEM Dallas 2022 South America Closed Qualifier,Nuke,16,6,boltz,dav1deuS,20-12,8-18
+328,Imperial,9z,2 - 0,Results for April 24th 2022,IEM Dallas 2022 South America Closed Qualifier,Nuke,16,6,fnx,Luken,19-14,10-21
+329,Imperial,9z,2 - 0,Results for April 24th 2022,IEM Dallas 2022 South America Closed Qualifier,Nuke,16,6,FalleN,rox,14-11,11-19
+330,Imperial,9z,2 - 0,Results for April 24th 2022,IEM Dallas 2022 South America Closed Qualifier,Inferno,16,7,FalleN,Luken,19-11,16-15
+331,Imperial,9z,2 - 0,Results for April 24th 2022,IEM Dallas 2022 South America Closed Qualifier,Inferno,16,7,fer,dgt,19-13,13-17
+332,Imperial,9z,2 - 0,Results for April 24th 2022,IEM Dallas 2022 South America Closed Qualifier,Inferno,16,7,boltz,dav1deuS,20-13,12-18
+333,Imperial,9z,2 - 0,Results for April 24th 2022,IEM Dallas 2022 South America Closed Qualifier,Inferno,16,7,VINI,max,15-13,11-19
+334,Imperial,9z,2 - 0,Results for April 24th 2022,IEM Dallas 2022 South America Closed Qualifier,Inferno,16,7,fnx,rox,12-11,9-16
+335,Imperial,Cruzeiro,2 - 0,Results for April 24th 2022,IEM Dallas 2022 South America Closed Qualifier,Dust2,16,2,fnx,SaNt0S,15-6,10-16
+336,Imperial,Cruzeiro,2 - 0,Results for April 24th 2022,IEM Dallas 2022 South America Closed Qualifier,Dust2,16,2,fer,pigo,19-9,8-17
+337,Imperial,Cruzeiro,2 - 0,Results for April 24th 2022,IEM Dallas 2022 South America Closed Qualifier,Dust2,16,2,FalleN,lux,17-7,9-16
+338,Imperial,Cruzeiro,2 - 0,Results for April 24th 2022,IEM Dallas 2022 South America Closed Qualifier,Dust2,16,2,VINI,netox,17-10,5-16
+339,Imperial,Cruzeiro,2 - 0,Results for April 24th 2022,IEM Dallas 2022 South America Closed Qualifier,Dust2,16,2,boltz,TEKO,14-6,6-17
+340,Imperial,Cruzeiro,2 - 0,Results for April 24th 2022,IEM Dallas 2022 South America Closed Qualifier,Overpass,16,6,fer,netox,20-12,19-16
+341,Imperial,Cruzeiro,2 - 0,Results for April 24th 2022,IEM Dallas 2022 South America Closed Qualifier,Overpass,16,6,VINI,SaNt0S,19-11,14-17
+342,Imperial,Cruzeiro,2 - 0,Results for April 24th 2022,IEM Dallas 2022 South America Closed Qualifier,Overpass,16,6,boltz,pigo,18-12,11-16
+343,Imperial,Cruzeiro,2 - 0,Results for April 24th 2022,IEM Dallas 2022 South America Closed Qualifier,Overpass,16,6,fnx,TEKO,13-12,10-16
+344,Imperial,Cruzeiro,2 - 0,Results for April 24th 2022,IEM Dallas 2022 South America Closed Qualifier,Overpass,16,6,FalleN,lux,9-16,9-15
+345,Imperial,9z,1 - 2,Results for April 23rd 2022,IEM Dallas 2022 South America Closed Qualifier,Nuke,13,16,boltz,Luken,19-19,21-15
+346,Imperial,9z,1 - 2,Results for April 23rd 2022,IEM Dallas 2022 South America Closed Qualifier,Nuke,13,16,fer,dgt,23-19,23-17
+347,Imperial,9z,1 - 2,Results for April 23rd 2022,IEM Dallas 2022 South America Closed Qualifier,Nuke,13,16,VINI,max,16-21,19-18
+348,Imperial,9z,1 - 2,Results for April 23rd 2022,IEM Dallas 2022 South America Closed Qualifier,Nuke,13,16,fnx,dav1deuS,18-20,19-19
+349,Imperial,9z,1 - 2,Results for April 23rd 2022,IEM Dallas 2022 South America Closed Qualifier,Nuke,13,16,FalleN,rox,15-17,11-22
+350,Imperial,9z,1 - 2,Results for April 23rd 2022,IEM Dallas 2022 South America Closed Qualifier,Inferno,16,9,FalleN,Luken,21-13,17-17
+351,Imperial,9z,1 - 2,Results for April 23rd 2022,IEM Dallas 2022 South America Closed Qualifier,Inferno,16,9,fer,dav1deuS,23-16,18-19
+352,Imperial,9z,1 - 2,Results for April 23rd 2022,IEM Dallas 2022 South America Closed Qualifier,Inferno,16,9,VINI,rox,16-11,10-17
+353,Imperial,9z,1 - 2,Results for April 23rd 2022,IEM Dallas 2022 South America Closed Qualifier,Inferno,16,9,boltz,max,15-14,12-18
+354,Imperial,9z,1 - 2,Results for April 23rd 2022,IEM Dallas 2022 South America Closed Qualifier,Inferno,16,9,fnx,dgt,16-17,14-20
+355,Imperial,9z,1 - 2,Results for April 23rd 2022,IEM Dallas 2022 South America Closed Qualifier,Dust2,12,16,VINI,dgt,17-19,31-12
+356,Imperial,9z,1 - 2,Results for April 23rd 2022,IEM Dallas 2022 South America Closed Qualifier,Dust2,12,16,FalleN,max,20-20,24-18
+357,Imperial,9z,1 - 2,Results for April 23rd 2022,IEM Dallas 2022 South America Closed Qualifier,Dust2,12,16,fnx,dav1deuS,13-19,21-16
+358,Imperial,9z,1 - 2,Results for April 23rd 2022,IEM Dallas 2022 South America Closed Qualifier,Dust2,12,16,fer,Luken,14-22,14-14
+359,Imperial,9z,1 - 2,Results for April 23rd 2022,IEM Dallas 2022 South America Closed Qualifier,Dust2,12,16,boltz,rox,14-20,10-18
+360,Imperial,Party Astronauts,2 - 1,Results for April 13th 2022,PGL Major Antwerp 2022 Americas RMR,Nuke,9,16,fer,PwnAlone,23-16,23-15
+361,Imperial,Party Astronauts,2 - 1,Results for April 13th 2022,PGL Major Antwerp 2022 Americas RMR,Nuke,9,16,boltz,ben1337,16-19,20-13
+362,Imperial,Party Astronauts,2 - 1,Results for April 13th 2022,PGL Major Antwerp 2022 Americas RMR,Nuke,9,16,fnx,Jonji,18-17,17-21
+363,Imperial,Party Astronauts,2 - 1,Results for April 13th 2022,PGL Major Antwerp 2022 Americas RMR,Nuke,9,16,FalleN,djay,16-21,17-17
+364,Imperial,Party Astronauts,2 - 1,Results for April 13th 2022,PGL Major Antwerp 2022 Americas RMR,Nuke,9,16,VINI,viz,10-18,13-17
+365,Imperial,Party Astronauts,2 - 1,Results for April 13th 2022,PGL Major Antwerp 2022 Americas RMR,Dust2,16,11,FalleN,PwnAlone,24-13,18-20
+366,Imperial,Party Astronauts,2 - 1,Results for April 13th 2022,PGL Major Antwerp 2022 Americas RMR,Dust2,16,11,VINI,djay,23-14,21-20
+367,Imperial,Party Astronauts,2 - 1,Results for April 13th 2022,PGL Major Antwerp 2022 Americas RMR,Dust2,16,11,boltz,viz,21-14,15-21
+368,Imperial,Party Astronauts,2 - 1,Results for April 13th 2022,PGL Major Antwerp 2022 Americas RMR,Dust2,16,11,fer,ben1337,17-19,11-17
+369,Imperial,Party Astronauts,2 - 1,Results for April 13th 2022,PGL Major Antwerp 2022 Americas RMR,Dust2,16,11,fnx,Jonji,16-15,10-23
+370,Imperial,Party Astronauts,2 - 1,Results for April 13th 2022,PGL Major Antwerp 2022 Americas RMR,Inferno,16,12,boltz,viz,24-17,22-15
+371,Imperial,Party Astronauts,2 - 1,Results for April 13th 2022,PGL Major Antwerp 2022 Americas RMR,Inferno,16,12,fer,PwnAlone,23-19,17-17
+372,Imperial,Party Astronauts,2 - 1,Results for April 13th 2022,PGL Major Antwerp 2022 Americas RMR,Inferno,16,12,VINI,djay,17-18,20-20
+373,Imperial,Party Astronauts,2 - 1,Results for April 13th 2022,PGL Major Antwerp 2022 Americas RMR,Inferno,16,12,FalleN,Jonji,13-14,15-19
+374,Imperial,Party Astronauts,2 - 1,Results for April 13th 2022,PGL Major Antwerp 2022 Americas RMR,Inferno,16,12,fnx,ben1337,14-18,12-23
+375,Imperial,MIBR,1 - 2,Results for April 12th 2022,PGL Major Antwerp 2022 Americas RMR,Inferno,16,12,VINI,chelo,22-16,22-16
+376,Imperial,MIBR,1 - 2,Results for April 12th 2022,PGL Major Antwerp 2022 Americas RMR,Inferno,16,12,fer,JOTA,21-16,15-16
+377,Imperial,MIBR,1 - 2,Results for April 12th 2022,PGL Major Antwerp 2022 Americas RMR,Inferno,16,12,boltz,exit,15-14,14-15
+378,Imperial,MIBR,1 - 2,Results for April 12th 2022,PGL Major Antwerp 2022 Americas RMR,Inferno,16,12,FalleN,Tuurtle,14-13,11-18
+379,Imperial,MIBR,1 - 2,Results for April 12th 2022,PGL Major Antwerp 2022 Americas RMR,Inferno,16,12,fnx,WOOD7,13-15,12-20
+380,Imperial,MIBR,1 - 2,Results for April 12th 2022,PGL Major Antwerp 2022 Americas RMR,Vertigo,8,16,fnx,exit,20-20,19-11
+381,Imperial,MIBR,1 - 2,Results for April 12th 2022,PGL Major Antwerp 2022 Americas RMR,Vertigo,8,16,FalleN,JOTA,17-20,24-16
+382,Imperial,MIBR,1 - 2,Results for April 12th 2022,PGL Major Antwerp 2022 Americas RMR,Vertigo,8,16,fer,WOOD7,14-17,18-15
+383,Imperial,MIBR,1 - 2,Results for April 12th 2022,PGL Major Antwerp 2022 Americas RMR,Vertigo,8,16,VINI,chelo,15-18,18-17
+384,Imperial,MIBR,1 - 2,Results for April 12th 2022,PGL Major Antwerp 2022 Americas RMR,Vertigo,8,16,boltz,Tuurtle,11-17,13-18
+385,Imperial,MIBR,1 - 2,Results for April 12th 2022,PGL Major Antwerp 2022 Americas RMR,Nuke,10,16,fer,JOTA,17-19,22-16
+386,Imperial,MIBR,1 - 2,Results for April 12th 2022,PGL Major Antwerp 2022 Americas RMR,Nuke,10,16,boltz,chelo,18-16,21-17
+387,Imperial,MIBR,1 - 2,Results for April 12th 2022,PGL Major Antwerp 2022 Americas RMR,Nuke,10,16,FalleN,WOOD7,18-17,15-15
+388,Imperial,MIBR,1 - 2,Results for April 12th 2022,PGL Major Antwerp 2022 Americas RMR,Nuke,10,16,fnx,exit,18-19,14-17
+389,Imperial,MIBR,1 - 2,Results for April 12th 2022,PGL Major Antwerp 2022 Americas RMR,Nuke,10,16,VINI,Tuurtle,13-17,15-19
+390,Imperial,Falcons,2 - 0,Results for March 27th 2022,OMEN WGR European Challenge 2022,Inferno,19,17,fnx,Python,32-18,29-23
+391,Imperial,Falcons,2 - 0,Results for March 27th 2022,OMEN WGR European Challenge 2022,Inferno,19,17,VINI,Keoz,24-27,24-26
+392,Imperial,Falcons,2 - 0,Results for March 27th 2022,OMEN WGR European Challenge 2022,Inferno,19,17,FalleN,Maka,25-20,23-24
+393,Imperial,Falcons,2 - 0,Results for March 27th 2022,OMEN WGR European Challenge 2022,Inferno,19,17,fer,Kyojin,25-27,20-26
+394,Imperial,Falcons,2 - 0,Results for March 27th 2022,OMEN WGR European Challenge 2022,Inferno,19,17,boltz,hAdji,18-24,19-26
+395,Imperial,Falcons,2 - 0,Results for March 27th 2022,OMEN WGR European Challenge 2022,Nuke,16,14,fer,Maka,31-19,22-19
+396,Imperial,Falcons,2 - 0,Results for March 27th 2022,OMEN WGR European Challenge 2022,Nuke,16,14,FalleN,hAdji,23-17,20-18
+397,Imperial,Falcons,2 - 0,Results for March 27th 2022,OMEN WGR European Challenge 2022,Nuke,16,14,VINI,Python,16-22,16-20
+398,Imperial,Falcons,2 - 0,Results for March 27th 2022,OMEN WGR European Challenge 2022,Nuke,16,14,boltz,Kyojin,17-16,18-20
+399,Imperial,Falcons,2 - 0,Results for March 27th 2022,OMEN WGR European Challenge 2022,Nuke,16,14,fnx,Keoz,15-21,17-25
+400,Imperial,MASONIC,2 - 1,Results for March 26th 2022,OMEN WGR European Challenge 2022,Vertigo,14,16,boltz,notaN,23-21,28-18
+401,Imperial,MASONIC,2 - 1,Results for March 26th 2022,OMEN WGR European Challenge 2022,Vertigo,14,16,FalleN,kraghen,23-21,26-17
+402,Imperial,MASONIC,2 - 1,Results for March 26th 2022,OMEN WGR European Challenge 2022,Vertigo,14,16,fer,Queenix,18-20,16-18
+403,Imperial,MASONIC,2 - 1,Results for March 26th 2022,OMEN WGR European Challenge 2022,Vertigo,14,16,VINI,J3nsyy,18-20,16-16
+404,Imperial,MASONIC,2 - 1,Results for March 26th 2022,OMEN WGR European Challenge 2022,Vertigo,14,16,fnx,blaq,6-20,15-19
+405,Imperial,MASONIC,2 - 1,Results for March 26th 2022,OMEN WGR European Challenge 2022,Dust2,19,15,FalleN,Queenix,35-19,28-25
+406,Imperial,MASONIC,2 - 1,Results for March 26th 2022,OMEN WGR European Challenge 2022,Dust2,19,15,fer,J3nsyy,26-21,16-21
+407,Imperial,MASONIC,2 - 1,Results for March 26th 2022,OMEN WGR European Challenge 2022,Dust2,19,15,fnx,blaq,26-17,18-27
+408,Imperial,MASONIC,2 - 1,Results for March 26th 2022,OMEN WGR European Challenge 2022,Dust2,19,15,VINI,notaN,25-23,17-27
+409,Imperial,MASONIC,2 - 1,Results for March 26th 2022,OMEN WGR European Challenge 2022,Dust2,19,15,boltz,kraghen,15-17,17-28
+410,Imperial,MASONIC,2 - 1,Results for March 26th 2022,OMEN WGR European Challenge 2022,Overpass,16,13,FalleN,J3nsyy,23-14,23-19
+411,Imperial,MASONIC,2 - 1,Results for March 26th 2022,OMEN WGR European Challenge 2022,Overpass,16,13,fer,Queenix,21-20,19-18
+412,Imperial,MASONIC,2 - 1,Results for March 26th 2022,OMEN WGR European Challenge 2022,Overpass,16,13,boltz,kraghen,17-16,22-22
+413,Imperial,MASONIC,2 - 1,Results for March 26th 2022,OMEN WGR European Challenge 2022,Overpass,16,13,VINI,notaN,20-20,13-18
+414,Imperial,MASONIC,2 - 1,Results for March 26th 2022,OMEN WGR European Challenge 2022,Overpass,16,13,fnx,blaq,15-20,12-20
+415,Imperial,Sharks,1 - 2,Results for March 14th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,Inferno,16,10,FalleN,zevy,20-13,21-17
+416,Imperial,Sharks,1 - 2,Results for March 14th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,Inferno,16,10,VINI,matios,21-17,13-17
+417,Imperial,Sharks,1 - 2,Results for March 14th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,Inferno,16,10,fer,Lucaozy,18-14,15-17
+418,Imperial,Sharks,1 - 2,Results for March 14th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,Inferno,16,10,fnx,chay,14-13,12-16
+419,Imperial,Sharks,1 - 2,Results for March 14th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,Inferno,16,10,boltz,jnt,14-12,8-20
+420,Imperial,Sharks,1 - 2,Results for March 14th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,Dust2,15,19,fer,zevy,29-26,30-20
+421,Imperial,Sharks,1 - 2,Results for March 14th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,Dust2,15,19,VINI,Lucaozy,28-27,30-20
+422,Imperial,Sharks,1 - 2,Results for March 14th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,Dust2,15,19,fnx,chay,22-23,24-23
+423,Imperial,Sharks,1 - 2,Results for March 14th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,Dust2,15,19,boltz,jnt,11-19,19-22
+424,Imperial,Sharks,1 - 2,Results for March 14th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,Dust2,15,19,FalleN,matios,14-24,16-19
+425,Imperial,Sharks,1 - 2,Results for March 14th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,Mirage,14,16,fer,jnt,35-18,21-18
+426,Imperial,Sharks,1 - 2,Results for March 14th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,Mirage,14,16,FalleN,Lucaozy,21-15,19-22
+427,Imperial,Sharks,1 - 2,Results for March 14th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,Mirage,14,16,boltz,chay,17-16,19-20
+428,Imperial,Sharks,1 - 2,Results for March 14th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,Mirage,14,16,VINI,matios,13-23,15-19
+429,Imperial,Sharks,1 - 2,Results for March 14th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,Mirage,14,16,fnx,zevy,12-19,17-20
+430,Imperial,9z,2 - 0,Results for March 12th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,Overpass,16,10,fer,max,25-15,18-20
+431,Imperial,9z,2 - 0,Results for March 12th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,Overpass,16,10,boltz,rox,22-17,20-19
+432,Imperial,9z,2 - 0,Results for March 12th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,Overpass,16,10,FalleN,dgt,19-16,15-21
+433,Imperial,9z,2 - 0,Results for March 12th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,Overpass,16,10,VINI,Luken,15-16,13-17
+434,Imperial,9z,2 - 0,Results for March 12th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,Overpass,16,10,fnx,dav1deuS,17-18,16-21
+435,Imperial,9z,2 - 0,Results for March 12th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,Mirage,16,9,boltz,dgt,29-10,20-19
+436,Imperial,9z,2 - 0,Results for March 12th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,Mirage,16,9,fer,dav1deuS,22-15,15-20
+437,Imperial,9z,2 - 0,Results for March 12th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,Mirage,16,9,VINI,max,18-16,13-17
+438,Imperial,9z,2 - 0,Results for March 12th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,Mirage,16,9,FalleN,Luken,13-10,13-19
+439,Imperial,9z,2 - 0,Results for March 12th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,Mirage,16,9,fnx,rox,13-17,7-20
+440,Imperial,Meta BR,2 - 0,Results for March 4th 2022,PGL Major Antwerp 2022 Americas RMR SA Open Qualifier 1,Nuke,16,14,VINI,Leomonster,28-21,29-22
+441,Imperial,Meta BR,2 - 0,Results for March 4th 2022,PGL Major Antwerp 2022 Americas RMR SA Open Qualifier 1,Nuke,16,14,fnx,Alisson,20-17,20-21
+442,Imperial,Meta BR,2 - 0,Results for March 4th 2022,PGL Major Antwerp 2022 Americas RMR SA Open Qualifier 1,Nuke,16,14,fer,desh,18-19,16-18
+443,Imperial,Meta BR,2 - 0,Results for March 4th 2022,PGL Major Antwerp 2022 Americas RMR SA Open Qualifier 1,Nuke,16,14,FalleN,Demonos,21-20,15-19
+444,Imperial,Meta BR,2 - 0,Results for March 4th 2022,PGL Major Antwerp 2022 Americas RMR SA Open Qualifier 1,Nuke,16,14,boltz,CutzMeretz,17-21,18-24
+445,Imperial,Meta BR,2 - 0,Results for March 4th 2022,PGL Major Antwerp 2022 Americas RMR SA Open Qualifier 1,Mirage,16,5,fer,Leomonster,22-11,18-17
+446,Imperial,Meta BR,2 - 0,Results for March 4th 2022,PGL Major Antwerp 2022 Americas RMR SA Open Qualifier 1,Mirage,16,5,FalleN,CutzMeretz,20-8,13-18
+447,Imperial,Meta BR,2 - 0,Results for March 4th 2022,PGL Major Antwerp 2022 Americas RMR SA Open Qualifier 1,Mirage,16,5,boltz,Alisson,19-13,10-21
+448,Imperial,Meta BR,2 - 0,Results for March 4th 2022,PGL Major Antwerp 2022 Americas RMR SA Open Qualifier 1,Mirage,16,5,VINI,Demonos,18-14,10-19
+449,Imperial,Meta BR,2 - 0,Results for March 4th 2022,PGL Major Antwerp 2022 Americas RMR SA Open Qualifier 1,Mirage,16,5,fnx,desh,11-10,5-16
+450,Imperial,River Plate,0 - 2,Results for December 10th 2021,BLAST Rising 2021 Latin America,Nuke,3,16,SHOOWTiME,guidimon,10-18,21-10
+451,Imperial,River Plate,0 - 2,Results for December 10th 2021,BLAST Rising 2021 Latin America,Nuke,3,16,horvy,minimal,11-17,21-8
+452,Imperial,River Plate,0 - 2,Results for December 10th 2021,BLAST Rising 2021 Latin America,Nuke,3,16,zqkS,atarax1a,11-17,14-5
+453,Imperial,River Plate,0 - 2,Results for December 10th 2021,BLAST Rising 2021 Latin America,Nuke,3,16,ckzao,MRN1,7-16,15-14
+454,Imperial,River Plate,0 - 2,Results for December 10th 2021,BLAST Rising 2021 Latin America,Nuke,3,16,delboNi,arieldidi,6-16,13-8
+455,Imperial,River Plate,0 - 2,Results for December 10th 2021,BLAST Rising 2021 Latin America,Ancient,11,16,delboNi,guidimon,19-19,27-22
+456,Imperial,River Plate,0 - 2,Results for December 10th 2021,BLAST Rising 2021 Latin America,Ancient,11,16,horvy,atarax1a,23-20,18-17
+457,Imperial,River Plate,0 - 2,Results for December 10th 2021,BLAST Rising 2021 Latin America,Ancient,11,16,SHOOWTiME,minimal,19-24,18-15
+458,Imperial,River Plate,0 - 2,Results for December 10th 2021,BLAST Rising 2021 Latin America,Ancient,11,16,zqkS,MRN1,13-18,19-16
+459,Imperial,River Plate,0 - 2,Results for December 10th 2021,BLAST Rising 2021 Latin America,Ancient,11,16,ckzao,arieldidi,12-17,16-17
+460,Imperial,Stars Horizon,2 - 0,Results for December 6th 2021,BLAST Rising 2021 Latin America,Vertigo,10,16,lukz,delboNi,23-21,28-16
+461,Imperial,Stars Horizon,2 - 0,Results for December 6th 2021,BLAST Rising 2021 Latin America,Vertigo,10,16,vLa,ckzao,18-17,25-15
+462,Imperial,Stars Horizon,2 - 0,Results for December 6th 2021,BLAST Rising 2021 Latin America,Vertigo,10,16,hoax,horvy,14-19,22-16
+463,Imperial,Stars Horizon,2 - 0,Results for December 6th 2021,BLAST Rising 2021 Latin America,Vertigo,10,16,GYZER,SHOOWTiME,17-21,18-18
+464,Imperial,Stars Horizon,2 - 0,Results for December 6th 2021,BLAST Rising 2021 Latin America,Vertigo,10,16,UnK,zqkS,12-20,3-19
+465,Imperial,Stars Horizon,2 - 0,Results for December 6th 2021,BLAST Rising 2021 Latin America,Dust2,12,16,vLa,zqkS,22-18,25-16
+466,Imperial,Stars Horizon,2 - 0,Results for December 6th 2021,BLAST Rising 2021 Latin America,Dust2,12,16,GYZER,horvy,19-20,24-16
+467,Imperial,Stars Horizon,2 - 0,Results for December 6th 2021,BLAST Rising 2021 Latin America,Dust2,12,16,UnK,ckzao,18-18,18-19
+468,Imperial,Stars Horizon,2 - 0,Results for December 6th 2021,BLAST Rising 2021 Latin America,Dust2,12,16,lukz,delboNi,17-24,18-22
+469,Imperial,Stars Horizon,2 - 0,Results for December 6th 2021,BLAST Rising 2021 Latin America,Dust2,12,16,hoax,SHOOWTiME,15-22,17-18
+470,Imperial,Boca Juniors,1 - 2,Results for December 5th 2021,BLAST Rising 2021 Latin America,Inferno,16,10,elemeNt,ckzao,26-16,24-17
+471,Imperial,Boca Juniors,1 - 2,Results for December 5th 2021,BLAST Rising 2021 Latin America,Inferno,16,10,lenci,zqkS,19-16,17-16
+472,Imperial,Boca Juniors,1 - 2,Results for December 5th 2021,BLAST Rising 2021 Latin America,Inferno,16,10,peqexino,SHOOWTiME,16-13,16-20
+473,Imperial,Boca Juniors,1 - 2,Results for December 5th 2021,BLAST Rising 2021 Latin America,Inferno,16,10,luchov,delboNi,16-15,11-19
+474,Imperial,Boca Juniors,1 - 2,Results for December 5th 2021,BLAST Rising 2021 Latin America,Inferno,16,10,alexer,horvy,13-18,10-18
+475,Imperial,Boca Juniors,1 - 2,Results for December 5th 2021,BLAST Rising 2021 Latin America,Nuke,10,16,elemeNt,ckzao,19-19,25-15
+476,Imperial,Boca Juniors,1 - 2,Results for December 5th 2021,BLAST Rising 2021 Latin America,Nuke,10,16,lenci,zqkS,21-19,19-18
+477,Imperial,Boca Juniors,1 - 2,Results for December 5th 2021,BLAST Rising 2021 Latin America,Nuke,10,16,luchov,SHOOWTiME,17-18,18-16
+478,Imperial,Boca Juniors,1 - 2,Results for December 5th 2021,BLAST Rising 2021 Latin America,Nuke,10,16,peqexino,horvy,12-18,15-17
+479,Imperial,Boca Juniors,1 - 2,Results for December 5th 2021,BLAST Rising 2021 Latin America,Nuke,10,16,alexer,delboNi,16-16,13-19
+480,Imperial,Boca Juniors,1 - 2,Results for December 5th 2021,BLAST Rising 2021 Latin America,Vertigo,16,10,elemeNt,delboNi,25-15,20-15
+481,Imperial,Boca Juniors,1 - 2,Results for December 5th 2021,BLAST Rising 2021 Latin America,Vertigo,16,10,luchov,ckzao,18-15,19-17
+482,Imperial,Boca Juniors,1 - 2,Results for December 5th 2021,BLAST Rising 2021 Latin America,Vertigo,16,10,peqexino,zqkS,15-15,19-19
+483,Imperial,Boca Juniors,1 - 2,Results for December 5th 2021,BLAST Rising 2021 Latin America,Vertigo,16,10,alexer,horvy,18-20,11-17
+484,Imperial,Boca Juniors,1 - 2,Results for December 5th 2021,BLAST Rising 2021 Latin America,Vertigo,16,10,lenci,SHOOWTiME,12-20,15-20
+485,Imperial,Supremacy,2 - 0,Results for December 4th 2021,BLAST Rising 2021 Latin America,Mirage,8,16,ALONZO,ckzao,17-18,22-13
+486,Imperial,Supremacy,2 - 0,Results for December 4th 2021,BLAST Rising 2021 Latin America,Mirage,8,16,caz,SHOOWTiME,11-18,22-13
+487,Imperial,Supremacy,2 - 0,Results for December 4th 2021,BLAST Rising 2021 Latin America,Mirage,8,16,Guepard,zqkS,10-21,19-11
+488,Imperial,Supremacy,2 - 0,Results for December 4th 2021,BLAST Rising 2021 Latin America,Mirage,8,16,Rome,delboNi,13-21,18-14
+489,Imperial,Supremacy,2 - 0,Results for December 4th 2021,BLAST Rising 2021 Latin America,Mirage,8,16,BabyRage,horvy,11-18,15-11
+490,Imperial,Supremacy,2 - 0,Results for December 4th 2021,BLAST Rising 2021 Latin America,Nuke,1,16,BabyRage,ckzao,10-15,22-5
+491,Imperial,Supremacy,2 - 0,Results for December 4th 2021,BLAST Rising 2021 Latin America,Nuke,1,16,Rome,SHOOWTiME,8-17,17-7
+492,Imperial,Supremacy,2 - 0,Results for December 4th 2021,BLAST Rising 2021 Latin America,Nuke,1,16,Guepard,delboNi,11-16,14-7
+493,Imperial,Supremacy,2 - 0,Results for December 4th 2021,BLAST Rising 2021 Latin America,Nuke,1,16,caz,zqkS,4-16,15-8
+494,Imperial,Supremacy,2 - 0,Results for December 4th 2021,BLAST Rising 2021 Latin America,Nuke,1,16,ALONZO,horvy,4-17,13-10
+495,Imperial,River Plate,2 - 0,Results for December 1st 2021,Aorus League 2021 Season 4 Regional Finals,Nuke,16,12,delboNi,minimal,30-13,25-19
+496,Imperial,River Plate,2 - 0,Results for December 1st 2021,Aorus League 2021 Season 4 Regional Finals,Nuke,16,12,ckzao,MRN1,24-21,18-20
+497,Imperial,River Plate,2 - 0,Results for December 1st 2021,Aorus League 2021 Season 4 Regional Finals,Nuke,16,12,horvy,guidimon,17-19,20-19
+498,Imperial,River Plate,2 - 0,Results for December 1st 2021,Aorus League 2021 Season 4 Regional Finals,Nuke,16,12,zqkS,arieldidi,17-19,20-22
+499,Imperial,River Plate,2 - 0,Results for December 1st 2021,Aorus League 2021 Season 4 Regional Finals,Nuke,16,12,SHOOWTiME,atarax1a,14-19,8-22
+500,Imperial,River Plate,2 - 0,Results for December 1st 2021,Aorus League 2021 Season 4 Regional Finals,Dust2,16,6,delboNi,guidimon,22-16,15-20
+501,Imperial,River Plate,2 - 0,Results for December 1st 2021,Aorus League 2021 Season 4 Regional Finals,Dust2,16,6,ckzao,arieldidi,23-12,15-17
+502,Imperial,River Plate,2 - 0,Results for December 1st 2021,Aorus League 2021 Season 4 Regional Finals,Dust2,16,6,zqkS,atarax1a,19-10,11-18
+503,Imperial,River Plate,2 - 0,Results for December 1st 2021,Aorus League 2021 Season 4 Regional Finals,Dust2,16,6,horvy,minimal,16-10,13-18
+504,Imperial,River Plate,2 - 0,Results for December 1st 2021,Aorus League 2021 Season 4 Regional Finals,Dust2,16,6,SHOOWTiME,MRN1,11-15,8-19
+505,Imperial,Liberty,2 - 0,Results for November 16th 2021,CBCS Masters 2021,Vertigo,6,16,kye,delboNi,18-19,19-10
+506,Imperial,Liberty,2 - 0,Results for November 16th 2021,CBCS Masters 2021,Vertigo,6,16,cidZzZ,horvy,18-17,17-12
+507,Imperial,Liberty,2 - 0,Results for November 16th 2021,CBCS Masters 2021,Vertigo,6,16,skullz,zqkS,10-16,21-13
+508,Imperial,Liberty,2 - 0,Results for November 16th 2021,CBCS Masters 2021,Vertigo,6,16,remix,SHOOWTiME,12-17,18-18
+509,Imperial,Liberty,2 - 0,Results for November 16th 2021,CBCS Masters 2021,Vertigo,6,16,dok,ckzao,9-21,15-14
+510,Imperial,Liberty,2 - 0,Results for November 16th 2021,CBCS Masters 2021,Dust2,16,19,cidZzZ,SHOOWTiME,30-24,31-23
+511,Imperial,Liberty,2 - 0,Results for November 16th 2021,CBCS Masters 2021,Dust2,16,19,kye,zqkS,24-24,30-20
+512,Imperial,Liberty,2 - 0,Results for November 16th 2021,CBCS Masters 2021,Dust2,16,19,remix,ckzao,25-23,27-26
+513,Imperial,Liberty,2 - 0,Results for November 16th 2021,CBCS Masters 2021,Dust2,16,19,skullz,horvy,19-24,20-20
+514,Imperial,Liberty,2 - 0,Results for November 16th 2021,CBCS Masters 2021,Dust2,16,19,dok,delboNi,14-29,16-23
+515,Imperial,Keyd,2 - 0,Results for November 14th 2021,CBCS Masters 2021,Mirage,6,16,t9rnay,zqkS,12-17,26-7
+516,Imperial,Keyd,2 - 0,Results for November 14th 2021,CBCS Masters 2021,Mirage,6,16,raafa,ckzao,13-18,21-14
+517,Imperial,Keyd,2 - 0,Results for November 14th 2021,CBCS Masters 2021,Mirage,6,16,abr,horvy,9-18,19-11
+518,Imperial,Keyd,2 - 0,Results for November 14th 2021,CBCS Masters 2021,Mirage,6,16,ponter,SHOOWTiME,11-19,13-13
+519,Imperial,Keyd,2 - 0,Results for November 14th 2021,CBCS Masters 2021,Mirage,6,16,lub,delboNi,8-19,12-8
+520,Imperial,Keyd,2 - 0,Results for November 14th 2021,CBCS Masters 2021,Nuke,10,16,t9rnay,SHOOWTiME,24-19,21-18
+521,Imperial,Keyd,2 - 0,Results for November 14th 2021,CBCS Masters 2021,Nuke,10,16,raafa,zqkS,19-18,20-13
+522,Imperial,Keyd,2 - 0,Results for November 14th 2021,CBCS Masters 2021,Nuke,10,16,ponter,horvy,13-21,17-15
+523,Imperial,Keyd,2 - 0,Results for November 14th 2021,CBCS Masters 2021,Nuke,10,16,lub,ckzao,12-20,22-17
+524,Imperial,Keyd,2 - 0,Results for November 14th 2021,CBCS Masters 2021,Nuke,10,16,abr,delboNi,13-19,17-18
+525,Imperial,Keyd,2 - 1,Results for November 6th 2021,Aorus League 2021 Season 4 Brazil,Nuke,19,15,zqkS,raafa,29-18,30-21
+526,Imperial,Keyd,2 - 1,Results for November 6th 2021,Aorus League 2021 Season 4 Brazil,Nuke,19,15,ckzao,lub,24-25,24-21
+527,Imperial,Keyd,2 - 1,Results for November 6th 2021,Aorus League 2021 Season 4 Brazil,Nuke,19,15,horvy,t9rnay,23-23,23-24
+528,Imperial,Keyd,2 - 1,Results for November 6th 2021,Aorus League 2021 Season 4 Brazil,Nuke,19,15,SHOOWTiME,ponter,23-23,18-26
+529,Imperial,Keyd,2 - 1,Results for November 6th 2021,Aorus League 2021 Season 4 Brazil,Nuke,19,15,delboNi,abr,19-22,16-26
+530,Imperial,Keyd,2 - 1,Results for November 6th 2021,Aorus League 2021 Season 4 Brazil,Inferno,8,16,ckzao,t9rnay,15-18,26-13
+531,Imperial,Keyd,2 - 1,Results for November 6th 2021,Aorus League 2021 Season 4 Brazil,Inferno,8,16,horvy,ponter,18-21,19-16
+532,Imperial,Keyd,2 - 1,Results for November 6th 2021,Aorus League 2021 Season 4 Brazil,Inferno,8,16,zqkS,raafa,14-18,19-13
+533,Imperial,Keyd,2 - 1,Results for November 6th 2021,Aorus League 2021 Season 4 Brazil,Inferno,8,16,SHOOWTiME,abr,15-19,16-12
+534,Imperial,Keyd,2 - 1,Results for November 6th 2021,Aorus League 2021 Season 4 Brazil,Inferno,8,16,delboNi,lub,10-20,15-18
+535,Imperial,Keyd,2 - 1,Results for November 6th 2021,Aorus League 2021 Season 4 Brazil,Dust2,16,10,zqkS,ponter,18-11,17-21
+536,Imperial,Keyd,2 - 1,Results for November 6th 2021,Aorus League 2021 Season 4 Brazil,Dust2,16,10,SHOOWTiME,raafa,19-13,15-18
+537,Imperial,Keyd,2 - 1,Results for November 6th 2021,Aorus League 2021 Season 4 Brazil,Dust2,16,10,horvy,abr,24-16,16-21
+538,Imperial,Keyd,2 - 1,Results for November 6th 2021,Aorus League 2021 Season 4 Brazil,Dust2,16,10,ckzao,lub,20-15,14-20
+539,Imperial,Keyd,2 - 1,Results for November 6th 2021,Aorus League 2021 Season 4 Brazil,Dust2,16,10,delboNi,t9rnay,21-20,13-23
+540,Imperial,Isurus,2 - 1,Results for November 5th 2021,Aorus League 2021 Season 4 Brazil,Mirage,20,22,nython,zqkS,40-23,32-23
+541,Imperial,Isurus,2 - 1,Results for November 5th 2021,Aorus League 2021 Season 4 Brazil,Mirage,20,22,Noktse,ckzao,29-28,31-24
+542,Imperial,Isurus,2 - 1,Results for November 5th 2021,Aorus League 2021 Season 4 Brazil,Mirage,20,22,DeStiNy,delboNi,23-30,35-24
+543,Imperial,Isurus,2 - 1,Results for November 5th 2021,Aorus League 2021 Season 4 Brazil,Mirage,20,22,deco,horvy,18-28,25-26
+544,Imperial,Isurus,2 - 1,Results for November 5th 2021,Aorus League 2021 Season 4 Brazil,Mirage,20,22,ALLE,SHOOWTiME,18-32,17-31
+545,Imperial,Isurus,2 - 1,Results for November 5th 2021,Aorus League 2021 Season 4 Brazil,Inferno,16,13,DeStiNy,delboNi,26-15,21-24
+546,Imperial,Isurus,2 - 1,Results for November 5th 2021,Aorus League 2021 Season 4 Brazil,Inferno,16,13,ALLE,ckzao,26-19,21-24
+547,Imperial,Isurus,2 - 1,Results for November 5th 2021,Aorus League 2021 Season 4 Brazil,Inferno,16,13,deco,horvy,25-15,19-21
+548,Imperial,Isurus,2 - 1,Results for November 5th 2021,Aorus League 2021 Season 4 Brazil,Inferno,16,13,Noktse,zqkS,23-21,17-22
+549,Imperial,Isurus,2 - 1,Results for November 5th 2021,Aorus League 2021 Season 4 Brazil,Inferno,16,13,nython,SHOOWTiME,13-18,10-22
+550,Imperial,Isurus,2 - 1,Results for November 5th 2021,Aorus League 2021 Season 4 Brazil,Nuke,9,16,deco,ckzao,14-18,19-16
+551,Imperial,Isurus,2 - 1,Results for November 5th 2021,Aorus League 2021 Season 4 Brazil,Nuke,9,16,Noktse,horvy,17-18,22-15
+552,Imperial,Isurus,2 - 1,Results for November 5th 2021,Aorus League 2021 Season 4 Brazil,Nuke,9,16,nython,SHOOWTiME,16-16,16-16
+553,Imperial,Isurus,2 - 1,Results for November 5th 2021,Aorus League 2021 Season 4 Brazil,Nuke,9,16,DeStiNy,delboNi,12-20,16-13
+554,Imperial,Isurus,2 - 1,Results for November 5th 2021,Aorus League 2021 Season 4 Brazil,Nuke,9,16,ALLE,zqkS,14-16,14-13
+555,Imperial,MIBR,0 - 2,Results for October 2nd 2021,IEM Fall 2021 South America,Nuke,16,6,boltz,SHOOWTiME,21-11,16-19
+556,Imperial,MIBR,0 - 2,Results for October 2nd 2021,IEM Fall 2021 South America,Nuke,16,6,exit,horvy,17-8,14-16
+557,Imperial,MIBR,0 - 2,Results for October 2nd 2021,IEM Fall 2021 South America,Nuke,16,6,chelo,delboNi,18-11,12-16
+558,Imperial,MIBR,0 - 2,Results for October 2nd 2021,IEM Fall 2021 South America,Nuke,16,6,yel,zqkS,15-9,4-18
+559,Imperial,MIBR,0 - 2,Results for October 2nd 2021,IEM Fall 2021 South America,Nuke,16,6,shz,ckzao,16-15,8-19
+560,Imperial,MIBR,0 - 2,Results for October 2nd 2021,IEM Fall 2021 South America,Mirage,16,8,exit,horvy,23-10,22-20
+561,Imperial,MIBR,0 - 2,Results for October 2nd 2021,IEM Fall 2021 South America,Mirage,16,8,chelo,delboNi,22-17,17-19
+562,Imperial,MIBR,0 - 2,Results for October 2nd 2021,IEM Fall 2021 South America,Mirage,16,8,shz,SHOOWTiME,20-14,15-17
+563,Imperial,MIBR,0 - 2,Results for October 2nd 2021,IEM Fall 2021 South America,Mirage,16,8,boltz,ckzao,12-16,10-19
+564,Imperial,MIBR,0 - 2,Results for October 2nd 2021,IEM Fall 2021 South America,Mirage,16,8,yel,zqkS,12-16,9-15
+565,Imperial,Bravos,0 - 2,Results for September 30th 2021,IEM Fall 2021 South America,Ancient,14,16,delboNi,Leomonster,22-19,24-19
+566,Imperial,Bravos,0 - 2,Results for September 30th 2021,IEM Fall 2021 South America,Ancient,14,16,zqkS,Tuurtle,19-21,23-21
+567,Imperial,Bravos,0 - 2,Results for September 30th 2021,IEM Fall 2021 South America,Ancient,14,16,horvy,danoco,18-18,22-14
+568,Imperial,Bravos,0 - 2,Results for September 30th 2021,IEM Fall 2021 South America,Ancient,14,16,SHOOWTiME,WOOD7,12-21,20-17
+569,Imperial,Bravos,0 - 2,Results for September 30th 2021,IEM Fall 2021 South America,Ancient,14,16,ckzao,JOTA,15-25,14-15
+570,Imperial,Bravos,0 - 2,Results for September 30th 2021,IEM Fall 2021 South America,Nuke,17,19,delboNi,Tuurtle,38-23,31-24
+571,Imperial,Bravos,0 - 2,Results for September 30th 2021,IEM Fall 2021 South America,Nuke,17,19,horvy,JOTA,26-24,25-24
+572,Imperial,Bravos,0 - 2,Results for September 30th 2021,IEM Fall 2021 South America,Nuke,17,19,ckzao,danoco,21-23,23-25
+573,Imperial,Bravos,0 - 2,Results for September 30th 2021,IEM Fall 2021 South America,Nuke,17,19,zqkS,WOOD7,23-27,22-23
+574,Imperial,Bravos,0 - 2,Results for September 30th 2021,IEM Fall 2021 South America,Nuke,17,19,SHOOWTiME,Leomonster,17-26,22-30
+575,Imperial,Liberty,2 - 1,Results for September 20th 2021,IEM Fall 2021 South America Closed Qualifier,Vertigo,19,22,dok,ckzao,32-31,30-24
+576,Imperial,Liberty,2 - 1,Results for September 20th 2021,IEM Fall 2021 South America Closed Qualifier,Vertigo,19,22,skullz,delboNi,29-24,31-28
+577,Imperial,Liberty,2 - 1,Results for September 20th 2021,IEM Fall 2021 South America Closed Qualifier,Vertigo,19,22,remix,zqkS,28-24,29-26
+578,Imperial,Liberty,2 - 1,Results for September 20th 2021,IEM Fall 2021 South America Closed Qualifier,Vertigo,19,22,drg,SHOOWTiME,26-28,23-33
+579,Imperial,Liberty,2 - 1,Results for September 20th 2021,IEM Fall 2021 South America Closed Qualifier,Vertigo,19,22,ALLE,horvy,23-29,23-28
+580,Imperial,Liberty,2 - 1,Results for September 20th 2021,IEM Fall 2021 South America Closed Qualifier,Nuke,16,13,ALLE,delboNi,32-16,27-16
+581,Imperial,Liberty,2 - 1,Results for September 20th 2021,IEM Fall 2021 South America Closed Qualifier,Nuke,16,13,dok,ckzao,18-21,18-21
+582,Imperial,Liberty,2 - 1,Results for September 20th 2021,IEM Fall 2021 South America Closed Qualifier,Nuke,16,13,remix,horvy,20-17,14-21
+583,Imperial,Liberty,2 - 1,Results for September 20th 2021,IEM Fall 2021 South America Closed Qualifier,Nuke,16,13,skullz,zqkS,17-15,14-23
+584,Imperial,Liberty,2 - 1,Results for September 20th 2021,IEM Fall 2021 South America Closed Qualifier,Nuke,16,13,drg,SHOOWTiME,19-17,13-25
+585,Imperial,Liberty,2 - 1,Results for September 20th 2021,IEM Fall 2021 South America Closed Qualifier,Ancient,7,16,drg,horvy,24-18,24-11
+586,Imperial,Liberty,2 - 1,Results for September 20th 2021,IEM Fall 2021 South America Closed Qualifier,Ancient,7,16,remix,ckzao,13-20,20-16
+587,Imperial,Liberty,2 - 1,Results for September 20th 2021,IEM Fall 2021 South America Closed Qualifier,Ancient,7,16,ALLE,zqkS,12-19,15-11
+588,Imperial,Liberty,2 - 1,Results for September 20th 2021,IEM Fall 2021 South America Closed Qualifier,Ancient,7,16,skullz,SHOOWTiME,8-20,19-15
+589,Imperial,Liberty,2 - 1,Results for September 20th 2021,IEM Fall 2021 South America Closed Qualifier,Ancient,7,16,dok,delboNi,10-17,16-16
+590,Imperial,Paquetá,2 - 1,Results for September 18th 2021,IEM Fall 2021 South America Closed Qualifier,Vertigo,16,4,nython,delboNi,20-12,19-17
+591,Imperial,Paquetá,2 - 1,Results for September 18th 2021,IEM Fall 2021 South America Closed Qualifier,Vertigo,16,4,dav1deuS,zqkS,20-12,16-17
+592,Imperial,Paquetá,2 - 1,Results for September 18th 2021,IEM Fall 2021 South America Closed Qualifier,Vertigo,16,4,DeStiNy,ckzao,18-11,11-16
+593,Imperial,Paquetá,2 - 1,Results for September 18th 2021,IEM Fall 2021 South America Closed Qualifier,Vertigo,16,4,iDk,SHOOWTiME,19-13,8-20
+594,Imperial,Paquetá,2 - 1,Results for September 18th 2021,IEM Fall 2021 South America Closed Qualifier,Vertigo,16,4,KHTEX,horvy,11-11,5-18
+595,Imperial,Paquetá,2 - 1,Results for September 18th 2021,IEM Fall 2021 South America Closed Qualifier,Nuke,11,16,dav1deuS,zqkS,21-19,23-15
+596,Imperial,Paquetá,2 - 1,Results for September 18th 2021,IEM Fall 2021 South America Closed Qualifier,Nuke,11,16,nython,horvy,17-18,23-18
+597,Imperial,Paquetá,2 - 1,Results for September 18th 2021,IEM Fall 2021 South America Closed Qualifier,Nuke,11,16,DeStiNy,ckzao,18-21,16-13
+598,Imperial,Paquetá,2 - 1,Results for September 18th 2021,IEM Fall 2021 South America Closed Qualifier,Nuke,11,16,KHTEX,delboNi,15-20,18-19
+599,Imperial,Paquetá,2 - 1,Results for September 18th 2021,IEM Fall 2021 South America Closed Qualifier,Nuke,11,16,iDk,SHOOWTiME,11-19,17-17
+600,Imperial,Paquetá,2 - 1,Results for September 18th 2021,IEM Fall 2021 South America Closed Qualifier,Dust2,13,16,iDk,delboNi,19-19,27-20
+601,Imperial,Paquetá,2 - 1,Results for September 18th 2021,IEM Fall 2021 South America Closed Qualifier,Dust2,13,16,nython,SHOOWTiME,21-19,23-20
+602,Imperial,Paquetá,2 - 1,Results for September 18th 2021,IEM Fall 2021 South America Closed Qualifier,Dust2,13,16,DeStiNy,zqkS,21-20,17-17
+603,Imperial,Paquetá,2 - 1,Results for September 18th 2021,IEM Fall 2021 South America Closed Qualifier,Dust2,13,16,KHTEX,ckzao,18-19,17-19
+604,Imperial,Paquetá,2 - 1,Results for September 18th 2021,IEM Fall 2021 South America Closed Qualifier,Dust2,13,16,dav1deuS,horvy,19-20,13-23
+605,Imperial,Bravos,0 - 2,Results for September 17th 2021,IEM Fall 2021 South America Closed Qualifier,Dust2,9,16,SHOOWTiME,JOTA,18-21,22-10
+606,Imperial,Bravos,0 - 2,Results for September 17th 2021,IEM Fall 2021 South America Closed Qualifier,Dust2,9,16,horvy,WOOD7,16-19,21-11
+607,Imperial,Bravos,0 - 2,Results for September 17th 2021,IEM Fall 2021 South America Closed Qualifier,Dust2,9,16,zqkS,Leomonster,15-19,24-17
+608,Imperial,Bravos,0 - 2,Results for September 17th 2021,IEM Fall 2021 South America Closed Qualifier,Dust2,9,16,ckzao,danoco,12-19,19-15
+609,Imperial,Bravos,0 - 2,Results for September 17th 2021,IEM Fall 2021 South America Closed Qualifier,Dust2,9,16,delboNi,Tuurtle,6-22,13-14
+610,Imperial,Bravos,0 - 2,Results for September 17th 2021,IEM Fall 2021 South America Closed Qualifier,Ancient,2,16,zqkS,WOOD7,13-16,20-7
+611,Imperial,Bravos,0 - 2,Results for September 17th 2021,IEM Fall 2021 South America Closed Qualifier,Ancient,2,16,horvy,danoco,13-17,19-9
+612,Imperial,Bravos,0 - 2,Results for September 17th 2021,IEM Fall 2021 South America Closed Qualifier,Ancient,2,16,ckzao,JOTA,11-17,16-9
+613,Imperial,Bravos,0 - 2,Results for September 17th 2021,IEM Fall 2021 South America Closed Qualifier,Ancient,2,16,SHOOWTiME,Tuurtle,8-17,20-10
+614,Imperial,Bravos,0 - 2,Results for September 17th 2021,IEM Fall 2021 South America Closed Qualifier,Ancient,2,16,delboNi,Leomonster,3-18,10-13
+615,Imperial,Jaguares,2 - 0,Results for September 13th 2021,IEM Fall 2021 South America Open Qualifier 2,Dust2,17,19,skuld,zqkS,28-25,30-20
+616,Imperial,Jaguares,2 - 0,Results for September 13th 2021,IEM Fall 2021 South America Open Qualifier 2,Dust2,17,19,desh,SHOOWTiME,28-22,24-29
+617,Imperial,Jaguares,2 - 0,Results for September 13th 2021,IEM Fall 2021 South America Open Qualifier 2,Dust2,17,19,roz,delboNi,25-18,25-23
+618,Imperial,Jaguares,2 - 0,Results for September 13th 2021,IEM Fall 2021 South America Open Qualifier 2,Dust2,17,19,w1,horvy,25-25,20-25
+619,Imperial,Jaguares,2 - 0,Results for September 13th 2021,IEM Fall 2021 South America Open Qualifier 2,Dust2,17,19,TEKO,ckzao,21-24,14-30
+620,Imperial,Jaguares,2 - 0,Results for September 13th 2021,IEM Fall 2021 South America Open Qualifier 2,Inferno,9,16,desh,SHOOWTiME,16-16,23-17
+621,Imperial,Jaguares,2 - 0,Results for September 13th 2021,IEM Fall 2021 South America Open Qualifier 2,Inferno,9,16,TEKO,delboNi,16-18,22-16
+622,Imperial,Jaguares,2 - 0,Results for September 13th 2021,IEM Fall 2021 South America Open Qualifier 2,Inferno,9,16,roz,ckzao,18-19,22-14
+623,Imperial,Jaguares,2 - 0,Results for September 13th 2021,IEM Fall 2021 South America Open Qualifier 2,Inferno,9,16,skuld,zqkS,13-19,12-12
+624,Imperial,Jaguares,2 - 0,Results for September 13th 2021,IEM Fall 2021 South America Open Qualifier 2,Inferno,9,16,w1,horvy,13-18,11-18
+625,Imperial,Copenhagen Flames,0 - 2,Results for August 17th 2021,Malta Vibes Knockout Series 1,Ancient,8,16,ckzao,roeJ,17-19,25-13
+626,Imperial,Copenhagen Flames,0 - 2,Results for August 17th 2021,Malta Vibes Knockout Series 1,Ancient,8,16,horvy,Zyphon,14-15,21-15
+627,Imperial,Copenhagen Flames,0 - 2,Results for August 17th 2021,Malta Vibes Knockout Series 1,Ancient,8,16,zqkS,nicoodoz,13-18,23-13
+628,Imperial,Copenhagen Flames,0 - 2,Results for August 17th 2021,Malta Vibes Knockout Series 1,Ancient,8,16,delboNi,jabbi,15-20,13-12
+629,Imperial,Copenhagen Flames,0 - 2,Results for August 17th 2021,Malta Vibes Knockout Series 1,Ancient,8,16,SHOOWTiME,HooXi,7-20,10-13
+630,Imperial,Copenhagen Flames,0 - 2,Results for August 17th 2021,Malta Vibes Knockout Series 1,Inferno,10,16,SHOOWTiME,HooXi,20-19,19-13
+631,Imperial,Copenhagen Flames,0 - 2,Results for August 17th 2021,Malta Vibes Knockout Series 1,Inferno,10,16,zqkS,nicoodoz,15-19,22-14
+632,Imperial,Copenhagen Flames,0 - 2,Results for August 17th 2021,Malta Vibes Knockout Series 1,Inferno,10,16,ckzao,Zyphon,13-19,22-13
+633,Imperial,Copenhagen Flames,0 - 2,Results for August 17th 2021,Malta Vibes Knockout Series 1,Inferno,10,16,horvy,roeJ,11-19,16-17
+634,Imperial,Copenhagen Flames,0 - 2,Results for August 17th 2021,Malta Vibes Knockout Series 1,Inferno,10,16,delboNi,jabbi,11-19,15-13
+635,Imperial,Spirit,0 - 2,Results for June 4th 2021,IEM Summer 2021,Mirage,16,4,degster,ckzao,23-11,12-17
+636,Imperial,Spirit,0 - 2,Results for June 4th 2021,IEM Summer 2021,Mirage,16,4,sdy,f4stzin,24-11,12-18
+637,Imperial,Spirit,0 - 2,Results for June 4th 2021,IEM Summer 2021,Mirage,16,4,mir,fer,17-9,14-19
+638,Imperial,Spirit,0 - 2,Results for June 4th 2021,IEM Summer 2021,Mirage,16,4,magixx,zqkS,13-11,9-17
+639,Imperial,Spirit,0 - 2,Results for June 4th 2021,IEM Summer 2021,Mirage,16,4,chopper,SHOOWTiME,13-11,6-19
+640,Imperial,Spirit,0 - 2,Results for June 4th 2021,IEM Summer 2021,Dust2,16,3,mir,fer,22-14,14-18
+641,Imperial,Spirit,0 - 2,Results for June 4th 2021,IEM Summer 2021,Dust2,16,3,magixx,f4stzin,22-10,14-16
+642,Imperial,Spirit,0 - 2,Results for June 4th 2021,IEM Summer 2021,Dust2,16,3,degster,zqkS,14-8,11-17
+643,Imperial,Spirit,0 - 2,Results for June 4th 2021,IEM Summer 2021,Dust2,16,3,chopper,SHOOWTiME,14-7,5-15
+644,Imperial,Spirit,0 - 2,Results for June 4th 2021,IEM Summer 2021,Dust2,16,3,sdy,ckzao,10-8,3-16
+645,Imperial,Triumph,1 - 2,Results for May 10th 2021,cs_summit 8 Open Qualifier 2,Mirage,16,7,motm,SHOOWTiME,21-15,17-17
+646,Imperial,Triumph,1 - 2,Results for May 10th 2021,cs_summit 8 Open Qualifier 2,Mirage,16,7,cynic,f4stzin,22-11,12-20
+647,Imperial,Triumph,1 - 2,Results for May 10th 2021,cs_summit 8 Open Qualifier 2,Mirage,16,7,Cooper,piriaz1n,21-12,10-18
+648,Imperial,Triumph,1 - 2,Results for May 10th 2021,cs_summit 8 Open Qualifier 2,Mirage,16,7,Shakezullah,ckzao,17-10,11-22
+649,Imperial,Triumph,1 - 2,Results for May 10th 2021,cs_summit 8 Open Qualifier 2,Mirage,16,7,Bwills,fer,17-11,8-21
+650,Imperial,Triumph,1 - 2,Results for May 10th 2021,cs_summit 8 Open Qualifier 2,Train,10,16,cynic,fer,21-19,23-16
+651,Imperial,Triumph,1 - 2,Results for May 10th 2021,cs_summit 8 Open Qualifier 2,Train,10,16,Cooper,ckzao,17-17,22-14
+652,Imperial,Triumph,1 - 2,Results for May 10th 2021,cs_summit 8 Open Qualifier 2,Train,10,16,motm,SHOOWTiME,18-24,18-15
+653,Imperial,Triumph,1 - 2,Results for May 10th 2021,cs_summit 8 Open Qualifier 2,Train,10,16,Shakezullah,f4stzin,13-18,21-18
+654,Imperial,Triumph,1 - 2,Results for May 10th 2021,cs_summit 8 Open Qualifier 2,Train,10,16,Bwills,piriaz1n,11-20,13-17
+655,Imperial,Triumph,1 - 2,Results for May 10th 2021,cs_summit 8 Open Qualifier 2,Nuke,16,13,Cooper,fer,28-18,25-19
+656,Imperial,Triumph,1 - 2,Results for May 10th 2021,cs_summit 8 Open Qualifier 2,Nuke,16,13,Bwills,piriaz1n,20-17,24-23
+657,Imperial,Triumph,1 - 2,Results for May 10th 2021,cs_summit 8 Open Qualifier 2,Nuke,16,13,motm,f4stzin,25-23,23-23
+658,Imperial,Triumph,1 - 2,Results for May 10th 2021,cs_summit 8 Open Qualifier 2,Nuke,16,13,cynic,ckzao,14-21,11-20
+659,Imperial,Triumph,1 - 2,Results for May 10th 2021,cs_summit 8 Open Qualifier 2,Nuke,16,13,Shakezullah,SHOOWTiME,18-16,11-20
+660,Imperial,Veloz,2 - 0,Results for May 9th 2021,cs_summit 8 Open Qualifier 2,Inferno,9,16,Aidan,SHOOWTiME,22-18,23-12
+661,Imperial,Veloz,2 - 0,Results for May 9th 2021,cs_summit 8 Open Qualifier 2,Inferno,9,16,consti,fer,17-17,21-13
+662,Imperial,Veloz,2 - 0,Results for May 9th 2021,cs_summit 8 Open Qualifier 2,Inferno,9,16,sherps,f4stzin,12-20,21-17
+663,Imperial,Veloz,2 - 0,Results for May 9th 2021,cs_summit 8 Open Qualifier 2,Inferno,9,16,Domorin,ckzao,10-21,17-15
+664,Imperial,Veloz,2 - 0,Results for May 9th 2021,cs_summit 8 Open Qualifier 2,Inferno,9,16,Feedalee,piriaz1n,8-18,11-13
+665,Imperial,Veloz,2 - 0,Results for May 9th 2021,cs_summit 8 Open Qualifier 2,Mirage,5,16,sherps,fer,20-17,17-11
+666,Imperial,Veloz,2 - 0,Results for May 9th 2021,cs_summit 8 Open Qualifier 2,Mirage,5,16,consti,piriaz1n,14-17,21-11
+667,Imperial,Veloz,2 - 0,Results for May 9th 2021,cs_summit 8 Open Qualifier 2,Mirage,5,16,Domorin,f4stzin,14-19,19-15
+668,Imperial,Veloz,2 - 0,Results for May 9th 2021,cs_summit 8 Open Qualifier 2,Mirage,5,16,Aidan,SHOOWTiME,6-18,15-10
+669,Imperial,Veloz,2 - 0,Results for May 9th 2021,cs_summit 8 Open Qualifier 2,Mirage,5,16,Feedalee,ckzao,7-16,15-15
+670,Imperial,O PLANO,,Results for January 27th 2023,IEM Brazil 2023 South America Open Qualifier 1,vtg,8,16,JOTA,decenty,12-16,25-10
+671,Imperial,O PLANO,,Results for January 27th 2023,IEM Brazil 2023 South America Open Qualifier 1,vtg,8,16,chelo,shz,16-17,21-12
+672,Imperial,O PLANO,,Results for January 27th 2023,IEM Brazil 2023 South America Open Qualifier 1,vtg,8,16,FalleN,kNgV-,15-15,18-11
+673,Imperial,O PLANO,,Results for January 27th 2023,IEM Brazil 2023 South America Open Qualifier 1,vtg,8,16,VINI,piriaz1n,11-16,11-16
+674,Imperial,O PLANO,,Results for January 27th 2023,IEM Brazil 2023 South America Open Qualifier 1,vtg,8,16,boltz,lub,13-18,7-18
+675,Imperial,RED Canids,,Results for January 27th 2023,IEM Brazil 2023 South America Open Qualifier 1,nuke,16,8,chelo,detr0ittJ,23-13,16-15
+676,Imperial,RED Canids,,Results for January 27th 2023,IEM Brazil 2023 South America Open Qualifier 1,nuke,16,8,FalleN,realz1n,22-12,13-15
+677,Imperial,RED Canids,,Results for January 27th 2023,IEM Brazil 2023 South America Open Qualifier 1,nuke,16,8,boltz,ckzao,16-13,13-18
+678,Imperial,RED Canids,,Results for January 27th 2023,IEM Brazil 2023 South America Open Qualifier 1,nuke,16,8,VINI,t9rnay,14-13,13-18
+679,Imperial,RED Canids,,Results for January 27th 2023,IEM Brazil 2023 South America Open Qualifier 1,nuke,16,8,JOTA,danoco,11-14,10-20
+680,Imperial,9z,,Results for November 1st 2022,IEM Rio Major 2022 Challengers Stage,mrg,11,16,FalleN,dgt,24-17,17-12
+681,Imperial,9z,,Results for November 1st 2022,IEM Rio Major 2022 Challengers Stage,mrg,11,16,boltz,max,17-16,20-18
+682,Imperial,9z,,Results for November 1st 2022,IEM Rio Major 2022 Challengers Stage,mrg,11,16,VINI,nqz,18-17,20-17
+683,Imperial,9z,,Results for November 1st 2022,IEM Rio Major 2022 Challengers Stage,mrg,11,16,chelo,dav1deuS,15-19,18-23
+684,Imperial,9z,,Results for November 1st 2022,IEM Rio Major 2022 Challengers Stage,mrg,11,16,fer,buda,12-23,16-17
+685,Imperial,Vitality,,Results for October 31st 2022,IEM Rio Major 2022 Challengers Stage,inf,9,16,FalleN,ZywOo,18-17,25-14
+686,Imperial,Vitality,,Results for October 31st 2022,IEM Rio Major 2022 Challengers Stage,inf,9,16,chelo,dupreeh,16-19,18-15
+687,Imperial,Vitality,,Results for October 31st 2022,IEM Rio Major 2022 Challengers Stage,inf,9,16,fer,apEX,12-18,18-12
+688,Imperial,Vitality,,Results for October 31st 2022,IEM Rio Major 2022 Challengers Stage,inf,9,16,boltz,Spinx,9-19,16-17
+689,Imperial,Vitality,,Results for October 31st 2022,IEM Rio Major 2022 Challengers Stage,inf,9,16,VINI,Magisk,14-19,15-12
+690,Imperial,00NATION,,Results for October 6th 2022,IEM Road to Rio 2022 Americas RMR,inf,11,16,fer,dumau,20-18,27-18
+691,Imperial,00NATION,,Results for October 6th 2022,IEM Road to Rio 2022 Americas RMR,inf,11,16,chelo,coldzera,17-20,20-13
+692,Imperial,00NATION,,Results for October 6th 2022,IEM Road to Rio 2022 Americas RMR,inf,11,16,VINI,latto,16-16,19-16
+693,Imperial,00NATION,,Results for October 6th 2022,IEM Road to Rio 2022 Americas RMR,inf,11,16,boltz,try,13-17,13-16
+694,Imperial,00NATION,,Results for October 6th 2022,IEM Road to Rio 2022 Americas RMR,inf,11,16,FalleN,TACO,14-20,11-17
+695,Imperial,9z,,Results for October 5th 2022,IEM Road to Rio 2022 Americas RMR,nuke,20,22,FalleN,buda,36-25,32-25
+696,Imperial,9z,,Results for October 5th 2022,IEM Road to Rio 2022 Americas RMR,nuke,20,22,fer,max,31-27,33-36
+697,Imperial,9z,,Results for October 5th 2022,IEM Road to Rio 2022 Americas RMR,nuke,20,22,boltz,dgt,24-25,27-22
+698,Imperial,9z,,Results for October 5th 2022,IEM Road to Rio 2022 Americas RMR,nuke,20,22,VINI,dav1deuS,18-31,26-24
+699,Imperial,9z,,Results for October 5th 2022,IEM Road to Rio 2022 Americas RMR,nuke,20,22,chelo,nqz,23-30,20-25
+700,Imperial,Isurus,,Results for October 5th 2022,IEM Road to Rio 2022 Americas RMR,ovp,16,2,fer,reversive,20-8,11-14
+701,Imperial,Isurus,,Results for October 5th 2022,IEM Road to Rio 2022 Americas RMR,ovp,16,2,FalleN,deco,21-7,10-14
+702,Imperial,Isurus,,Results for October 5th 2022,IEM Road to Rio 2022 Americas RMR,ovp,16,2,VINI,luchov,13-9,7-17
+703,Imperial,Isurus,,Results for October 5th 2022,IEM Road to Rio 2022 Americas RMR,ovp,16,2,boltz,meyern,12-8,10-15
+704,Imperial,Isurus,,Results for October 5th 2022,IEM Road to Rio 2022 Americas RMR,ovp,16,2,chelo,Noktse,10-12,6-16
+705,Imperial,paiN,,Results for September 2nd 2022,ESL Challenger Melbourne 2022,d2,5,16,FalleN,skullz,17-18,20-13
+706,Imperial,paiN,,Results for September 2nd 2022,ESL Challenger Melbourne 2022,d2,5,16,boltz,PKL,15-17,17-9
+707,Imperial,paiN,,Results for September 2nd 2022,ESL Challenger Melbourne 2022,d2,5,16,fer,zevy,10-19,20-13
+708,Imperial,paiN,,Results for September 2nd 2022,ESL Challenger Melbourne 2022,d2,5,16,chelo,biguzera,10-19,15-11
+709,Imperial,paiN,,Results for September 2nd 2022,ESL Challenger Melbourne 2022,d2,5,16,VINI,hardzao,4-17,18-10
+710,Imperial,VERTEX,,Results for September 2nd 2022,ESL Challenger Melbourne 2022,inf,16,13,fer,pz,28-19,19-21
+711,Imperial,VERTEX,,Results for September 2nd 2022,ESL Challenger Melbourne 2022,inf,16,13,chelo,ADDICT,25-19,22-19
+712,Imperial,VERTEX,,Results for September 2nd 2022,ESL Challenger Melbourne 2022,inf,16,13,boltz,malta,19-17,18-17
+713,Imperial,VERTEX,,Results for September 2nd 2022,ESL Challenger Melbourne 2022,inf,16,13,FalleN,BRACE,14-19,15-21
+714,Imperial,VERTEX,,Results for September 2nd 2022,ESL Challenger Melbourne 2022,inf,16,13,VINI,BL1TZ,13-20,18-22
+715,Imperial,Outsiders,,Results for July 5th 2022,IEM Cologne 2022 Play-In,inf,6,16,FalleN,Jame,15-17,24-6
+716,Imperial,Outsiders,,Results for July 5th 2022,IEM Cologne 2022 Play-In,inf,6,16,fer,fame,11-16,16-10
+717,Imperial,Outsiders,,Results for July 5th 2022,IEM Cologne 2022 Play-In,inf,6,16,VINI,Qikert,11-19,14-13
+718,Imperial,Outsiders,,Results for July 5th 2022,IEM Cologne 2022 Play-In,inf,6,16,fnx,n0rb3r7,6-14,14-12
+719,Imperial,Outsiders,,Results for July 5th 2022,IEM Cologne 2022 Play-In,inf,6,16,boltz,FL1T,9-18,13-12
+720,Imperial,Finest,,Results for June 8th 2022,Pinnacle Cup Championship 2022,d2,16,12,FalleN,PlesseN,29-15,21-20
+721,Imperial,Finest,,Results for June 8th 2022,Pinnacle Cup Championship 2022,d2,16,12,boltz,anarkez,21-18,23-21
+722,Imperial,Finest,,Results for June 8th 2022,Pinnacle Cup Championship 2022,d2,16,12,VINI,kreaz,18-19,21-22
+723,Imperial,Finest,,Results for June 8th 2022,Pinnacle Cup Championship 2022,d2,16,12,fer,twist,13-21,14-16
+724,Imperial,Finest,,Results for June 8th 2022,Pinnacle Cup Championship 2022,d2,16,12,fnx,shokz,14-18,12-16
+725,Imperial,FURIA,,Results for May 30th 2022,IEM Dallas 2022,mrg,9,16,VINI,yuurih,18-18,19-13
+726,Imperial,FURIA,,Results for May 30th 2022,IEM Dallas 2022,mrg,9,16,FalleN,KSCERATO,18-17,18-12
+727,Imperial,FURIA,,Results for May 30th 2022,IEM Dallas 2022,mrg,9,16,fer,saffee,16-17,18-15
+728,Imperial,FURIA,,Results for May 30th 2022,IEM Dallas 2022,mrg,9,16,fnx,drop,13-17,18-15
+729,Imperial,FURIA,,Results for May 30th 2022,IEM Dallas 2022,mrg,9,16,boltz,arT,7-20,16-17
+730,Imperial,Northern Forces,,Results for May 23rd 2022,ESL Challenger Valencia 2022 North America Open Qualifier 2,ovp,16,14,boltz,freshie,34-20,25-18
+731,Imperial,Northern Forces,,Results for May 23rd 2022,ESL Challenger Valencia 2022 North America Open Qualifier 2,ovp,16,14,FalleN,Cryptic,26-20,26-25
+732,Imperial,Northern Forces,,Results for May 23rd 2022,ESL Challenger Valencia 2022 North America Open Qualifier 2,ovp,16,14,fer,Florence,24-19,16-22
+733,Imperial,Northern Forces,,Results for May 23rd 2022,ESL Challenger Valencia 2022 North America Open Qualifier 2,ovp,16,14,VINI,JTMythic,15-18,19-24
+734,Imperial,Northern Forces,,Results for May 23rd 2022,ESL Challenger Valencia 2022 North America Open Qualifier 2,ovp,16,14,fnx,niise,12-21,12-23
+735,Imperial,G2,,Results for May 14th 2022,PGL Major Antwerp 2022,mrg,12,16,fnx,m0NESY,19-19,28-13
+736,Imperial,G2,,Results for May 14th 2022,PGL Major Antwerp 2022,mrg,12,16,fer,NiKo,20-19,24-19
+737,Imperial,G2,,Results for May 14th 2022,PGL Major Antwerp 2022,mrg,12,16,VINI,JACKZ,16-18,16-15
+738,Imperial,G2,,Results for May 14th 2022,PGL Major Antwerp 2022,mrg,12,16,FalleN,huNter-,15-19,18-20
+739,Imperial,G2,,Results for May 14th 2022,PGL Major Antwerp 2022,mrg,12,16,boltz,Aleksib,12-19,8-15
+740,Imperial,BIG,,Results for May 14th 2022,PGL Major Antwerp 2022,nuke,11,16,FalleN,faveN,15-17,21-14
+741,Imperial,BIG,,Results for May 14th 2022,PGL Major Antwerp 2022,nuke,11,16,fer,tabseN,18-17,18-15
+742,Imperial,BIG,,Results for May 14th 2022,PGL Major Antwerp 2022,nuke,11,16,VINI,syrsoN,13-19,20-15
+743,Imperial,BIG,,Results for May 14th 2022,PGL Major Antwerp 2022,nuke,11,16,fnx,Krimbo,14-16,16-14
+744,Imperial,BIG,,Results for May 14th 2022,PGL Major Antwerp 2022,nuke,11,16,boltz,tiziaN,13-18,11-15
+745,Imperial,Bad News Eagles,,Results for May 10th 2022,PGL Major Antwerp 2022 Challengers Stage,vtg,12,16,VINI,gxx-,17-18,33-14
+746,Imperial,Bad News Eagles,,Results for May 10th 2022,PGL Major Antwerp 2022 Challengers Stage,vtg,12,16,boltz,juanflatroo,14-21,20-19
+747,Imperial,Bad News Eagles,,Results for May 10th 2022,PGL Major Antwerp 2022 Challengers Stage,vtg,12,16,fer,rigoN,19-22,25-17
+748,Imperial,Bad News Eagles,,Results for May 10th 2022,PGL Major Antwerp 2022 Challengers Stage,vtg,12,16,FalleN,sinnopsyy,16-20,14-18
+749,Imperial,Bad News Eagles,,Results for May 10th 2022,PGL Major Antwerp 2022 Challengers Stage,vtg,12,16,fnx,SENER1,16-20,9-15
+750,Imperial,Liquid,,Results for May 9th 2022,PGL Major Antwerp 2022 Challengers Stage,inf,16,10,fer,NAF,27-12,19-17
+751,Imperial,Liquid,,Results for May 9th 2022,PGL Major Antwerp 2022 Challengers Stage,inf,16,10,boltz,nitr0,22-12,12-20
+752,Imperial,Liquid,,Results for May 9th 2022,PGL Major Antwerp 2022 Challengers Stage,inf,16,10,FalleN,shox,16-12,13-17
+753,Imperial,Liquid,,Results for May 9th 2022,PGL Major Antwerp 2022 Challengers Stage,inf,16,10,VINI,oSee,15-14,9-18
+754,Imperial,Liquid,,Results for May 9th 2022,PGL Major Antwerp 2022 Challengers Stage,inf,16,10,fnx,EliGE,11-11,8-19
+755,Imperial,Spirit,,Results for May 9th 2022,PGL Major Antwerp 2022 Challengers Stage,d2,6,16,VINI,degster,15-17,24-15
+756,Imperial,Spirit,,Results for May 9th 2022,PGL Major Antwerp 2022 Challengers Stage,d2,6,16,fer,Patsi,12-21,25-12
+757,Imperial,Spirit,,Results for May 9th 2022,PGL Major Antwerp 2022 Challengers Stage,d2,6,16,fnx,chopper,9-15,20-8
+758,Imperial,Spirit,,Results for May 9th 2022,PGL Major Antwerp 2022 Challengers Stage,d2,6,16,FalleN,magixx,10-17,13-11
+759,Imperial,Spirit,,Results for May 9th 2022,PGL Major Antwerp 2022 Challengers Stage,d2,6,16,boltz,s1ren,9-18,6-10
+760,Imperial,Case,,Results for April 11th 2022,PGL Major Antwerp 2022 Americas RMR,d2,16,6,boltz,steel,29-12,14-17
+761,Imperial,Case,,Results for April 11th 2022,PGL Major Antwerp 2022 Americas RMR,d2,16,6,FalleN,f4stzin,21-11,13-21
+762,Imperial,Case,,Results for April 11th 2022,PGL Major Antwerp 2022 Americas RMR,d2,16,6,fer,yepz,22-14,12-18
+763,Imperial,Case,,Results for April 11th 2022,PGL Major Antwerp 2022 Americas RMR,d2,16,6,fnx,RCF,10-11,10-19
+764,Imperial,Case,,Results for April 11th 2022,PGL Major Antwerp 2022 Americas RMR,d2,16,6,VINI,honda,10-9,8-17
+765,Imperial,São Caetano,,Results for April 11th 2022,PGL Major Antwerp 2022 Americas RMR,inf,16,12,fer,SHOOWTiME,34-19,20-23
+766,Imperial,São Caetano,,Results for April 11th 2022,PGL Major Antwerp 2022 Americas RMR,inf,16,12,boltz,delboNi,21-14,18-21
+767,Imperial,São Caetano,,Results for April 11th 2022,PGL Major Antwerp 2022 Americas RMR,inf,16,12,fnx,danoco,16-12,15-22
+768,Imperial,São Caetano,,Results for April 11th 2022,PGL Major Antwerp 2022 Americas RMR,inf,16,12,VINI,zqkS,18-19,15-21
+769,Imperial,São Caetano,,Results for April 11th 2022,PGL Major Antwerp 2022 Americas RMR,inf,16,12,FalleN,ckzao,16-18,12-22
+770,Imperial,SAW,,Results for March 25th 2022,OMEN WGR European Challenge 2022,d2,10,16,VINI,stadodo,22-17,22-16
+771,Imperial,SAW,,Results for March 25th 2022,OMEN WGR European Challenge 2022,d2,10,16,fer,roman,18-18,23-19
+772,Imperial,SAW,,Results for March 25th 2022,OMEN WGR European Challenge 2022,d2,10,16,FalleN,MUTiRiS,18-21,18-14
+773,Imperial,SAW,,Results for March 25th 2022,OMEN WGR European Challenge 2022,d2,10,16,fnx,arki,13-21,19-15
+774,Imperial,SAW,,Results for March 25th 2022,OMEN WGR European Challenge 2022,d2,10,16,boltz,JUST,11-22,16-18
+775,Imperial,MOUZ NXT,,Results for March 25th 2022,OMEN WGR European Challenge 2022,inf,16,4,fer,Jimpphat,23-9,11-16
+776,Imperial,MOUZ NXT,,Results for March 25th 2022,OMEN WGR European Challenge 2022,inf,16,4,boltz,mhL,19-9,9-16
+777,Imperial,MOUZ NXT,,Results for March 25th 2022,OMEN WGR European Challenge 2022,inf,16,4,fnx,siuhy,18-9,8-19
+778,Imperial,MOUZ NXT,,Results for March 25th 2022,OMEN WGR European Challenge 2022,inf,16,4,VINI,szejn,16-10,10-18
+779,Imperial,MOUZ NXT,,Results for March 25th 2022,OMEN WGR European Challenge 2022,inf,16,4,FalleN,xertioN,11-9,8-18
+780,Imperial,OFFSET,,Results for March 25th 2022,OMEN WGR European Challenge 2022,nuke,16,4,fer,Lr0z1n,22-7,8-14
+781,Imperial,OFFSET,,Results for March 25th 2022,OMEN WGR European Challenge 2022,nuke,16,4,VINI,Shr,21-9,9-18
+782,Imperial,OFFSET,,Results for March 25th 2022,OMEN WGR European Challenge 2022,nuke,16,4,FalleN,Slaxx,20-5,7-16
+783,Imperial,OFFSET,,Results for March 25th 2022,OMEN WGR European Challenge 2022,nuke,16,4,fnx,shellzi,14-9,5-18
+784,Imperial,OFFSET,,Results for March 25th 2022,OMEN WGR European Challenge 2022,nuke,16,4,boltz,snapy,7-6,7-18
+785,Imperial,Isurus,,Results for March 12th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,ovp,16,3,VINI,DeStiNy,20-8,12-16
+786,Imperial,Isurus,,Results for March 12th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,ovp,16,3,boltz,ALLE,18-8,11-16
+787,Imperial,Isurus,,Results for March 12th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,ovp,16,3,FalleN,deco,19-6,8-18
+788,Imperial,Isurus,,Results for March 12th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,ovp,16,3,fer,Noktse,16-12,8-16
+789,Imperial,Isurus,,Results for March 12th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,ovp,16,3,fnx,Gafolo,8-12,7-15
+790,Imperial,Sharks,,Results for March 11th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,nuke,11,16,fer,Lucaozy,23-18,24-16
+791,Imperial,Sharks,,Results for March 11th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,nuke,11,16,VINI,jnt,22-20,19-17
+792,Imperial,Sharks,,Results for March 11th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,nuke,11,16,boltz,chay,14-19,19-21
+793,Imperial,Sharks,,Results for March 11th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,nuke,11,16,FalleN,zevy,16-17,18-14
+794,Imperial,Sharks,,Results for March 11th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,nuke,11,16,fnx,matios,12-18,12-19
+795,Imperial,Isurus,,Results for March 11th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,ovp,16,13,boltz,DeStiNy,25-17,22-19
+796,Imperial,Isurus,,Results for March 11th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,ovp,16,13,fer,Gafolo,19-19,21-19
+797,Imperial,Isurus,,Results for March 11th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,ovp,16,13,FalleN,Noktse,20-18,18-21
+798,Imperial,Isurus,,Results for March 11th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,ovp,16,13,VINI,ALLE,23-15,15-23
+799,Imperial,Isurus,,Results for March 11th 2022,FiReLEAGUE Latin Power Spring 2022 - BLAST Premier Qualifier,ovp,16,13,fnx,deco,15-21,14-20
+800,Imperial,Case,,Results for March 5th 2022,PGL Major Antwerp 2022 Americas RMR SA Open Qualifier 1,inf,7,16,fnx,RCF,13-16,26-13
+801,Imperial,Case,,Results for March 5th 2022,PGL Major Antwerp 2022 Americas RMR SA Open Qualifier 1,inf,7,16,FalleN,f4stzin,12-16,17-12
+802,Imperial,Case,,Results for March 5th 2022,PGL Major Antwerp 2022 Americas RMR SA Open Qualifier 1,inf,7,16,boltz,yepz,8-19,16-11
+803,Imperial,Case,,Results for March 5th 2022,PGL Major Antwerp 2022 Americas RMR SA Open Qualifier 1,inf,7,16,fer,steel,12-17,15-9
+804,Imperial,Case,,Results for March 5th 2022,PGL Major Antwerp 2022 Americas RMR SA Open Qualifier 1,inf,7,16,VINI,honda,11-17,11-11
+805,Imperial,9z,,Results for March 5th 2022,PGL Major Antwerp 2022 Americas RMR SA Open Qualifier 1,inf,16,11,boltz,Luken,20-16,25-18
+806,Imperial,9z,,Results for March 5th 2022,PGL Major Antwerp 2022 Americas RMR SA Open Qualifier 1,inf,16,11,FalleN,max,24-16,16-18
+807,Imperial,9z,,Results for March 5th 2022,PGL Major Antwerp 2022 Americas RMR SA Open Qualifier 1,inf,16,11,VINI,dav1deuS,18-17,17-20
+808,Imperial,9z,,Results for March 5th 2022,PGL Major Antwerp 2022 Americas RMR SA Open Qualifier 1,inf,16,11,fnx,rox,14-16,12-15
+809,Imperial,9z,,Results for March 5th 2022,PGL Major Antwerp 2022 Americas RMR SA Open Qualifier 1,inf,16,11,fer,dgt,13-18,13-20
+810,Imperial,TotalePro,,Results for March 4th 2022,PGL Major Antwerp 2022 Americas RMR SA Open Qualifier 1,nuke,16,2,VINI,ntx,33-7,10-17
+811,Imperial,TotalePro,,Results for March 4th 2022,PGL Major Antwerp 2022 Americas RMR SA Open Qualifier 1,nuke,16,2,fer,n1trox,20-9,7-17
+812,Imperial,TotalePro,,Results for March 4th 2022,PGL Major Antwerp 2022 Americas RMR SA Open Qualifier 1,nuke,16,2,FalleN,Luck,11-5,8-17
+813,Imperial,TotalePro,,Results for March 4th 2022,PGL Major Antwerp 2022 Americas RMR SA Open Qualifier 1,nuke,16,2,boltz,Thuister,12-7,6-18
+814,Imperial,TotalePro,,Results for March 4th 2022,PGL Major Antwerp 2022 Americas RMR SA Open Qualifier 1,nuke,16,2,fnx,JMS,10-7,4-17
+815,Imperial,Leviatan,,Results for December 2nd 2021,ESL Challenger Anaheim 2022 South America Open Qualifier 2,mrg,9,16,zqkS,1962,24-16,24-17
+816,Imperial,Leviatan,,Results for December 2nd 2021,ESL Challenger Anaheim 2022 South America Open Qualifier 2,mrg,9,16,SHOOWTiME,reversive,17-19,20-14
+817,Imperial,Leviatan,,Results for December 2nd 2021,ESL Challenger Anaheim 2022 South America Open Qualifier 2,mrg,9,16,delboNi,Yokowow,15-17,18-15
+818,Imperial,Leviatan,,Results for December 2nd 2021,ESL Challenger Anaheim 2022 South America Open Qualifier 2,mrg,9,16,horvy,DILLION1,10-18,14-12
+819,Imperial,Leviatan,,Results for December 2nd 2021,ESL Challenger Anaheim 2022 South America Open Qualifier 2,mrg,9,16,ckzao,tom1jed,10-19,13-18
+820,Imperial,Malvinas,,Results for December 2nd 2021,ESL Challenger Anaheim 2022 South America Open Qualifier 2,inf,16,10,horvy,TIKO,24-15,26-17
+821,Imperial,Malvinas,,Results for December 2nd 2021,ESL Challenger Anaheim 2022 South America Open Qualifier 2,inf,16,10,ckzao,redmor,19-17,15-15
+822,Imperial,Malvinas,,Results for December 2nd 2021,ESL Challenger Anaheim 2022 South America Open Qualifier 2,inf,16,10,delboNi,kissmyass,21-17,13-19
+823,Imperial,Malvinas,,Results for December 2nd 2021,ESL Challenger Anaheim 2022 South America Open Qualifier 2,inf,16,10,SHOOWTiME,gatito,13-20,16-21
+824,Imperial,Malvinas,,Results for December 2nd 2021,ESL Challenger Anaheim 2022 South America Open Qualifier 2,inf,16,10,zqkS,ramuljas,10-16,14-15
+825,Imperial,Stars Horizon,,Results for November 12th 2021,CBCS Masters 2021,anc,16,5,SHOOWTiME,GYZER,22-9,10-16
+826,Imperial,Stars Horizon,,Results for November 12th 2021,CBCS Masters 2021,anc,16,5,zqkS,hoax,23-11,14-19
+827,Imperial,Stars Horizon,,Results for November 12th 2021,CBCS Masters 2021,anc,16,5,horvy,UnK,20-7,10-19
+828,Imperial,Stars Horizon,,Results for November 12th 2021,CBCS Masters 2021,anc,16,5,delboNi,lukz,15-10,11-18
+829,Imperial,Stars Horizon,,Results for November 12th 2021,CBCS Masters 2021,anc,16,5,ckzao,vLa,12-13,5-21
+830,Imperial,DETONA,,Results for November 11th 2021,CBCS Masters 2021,nuke,16,8,SHOOWTiME,lux,22-19,20-20
+831,Imperial,DETONA,,Results for November 11th 2021,CBCS Masters 2021,nuke,16,8,delboNi,keiz,22-13,16-16
+832,Imperial,DETONA,,Results for November 11th 2021,CBCS Masters 2021,nuke,16,8,zqkS,voltera,16-13,14-20
+833,Imperial,DETONA,,Results for November 11th 2021,CBCS Masters 2021,nuke,16,8,ckzao,phx,21-17,16-21
+834,Imperial,DETONA,,Results for November 11th 2021,CBCS Masters 2021,nuke,16,8,horvy,BobZ,17-16,11-22
+835,Imperial,DETONA,,Results for November 3rd 2021,Aorus League 2021 Season 4 Brazil,nuke,16,14,delboNi,voltera,25-22,22-20
+836,Imperial,DETONA,,Results for November 3rd 2021,Aorus League 2021 Season 4 Brazil,nuke,16,14,SHOOWTiME,keiz,18-19,20-18
+837,Imperial,DETONA,,Results for November 3rd 2021,Aorus League 2021 Season 4 Brazil,nuke,16,14,ckzao,BobZ,22-19,18-23
+838,Imperial,DETONA,,Results for November 3rd 2021,Aorus League 2021 Season 4 Brazil,nuke,16,14,zqkS,lux,20-16,18-19
+839,Imperial,DETONA,,Results for November 3rd 2021,Aorus League 2021 Season 4 Brazil,nuke,16,14,horvy,phx,16-20,18-21
+840,Imperial,Keyd,,Results for November 2nd 2021,Aorus League 2021 Season 4 Brazil,inf,16,12,t9rnay,zqkS,22-19,25-19
+841,Imperial,Keyd,,Results for November 2nd 2021,Aorus League 2021 Season 4 Brazil,inf,16,12,lub,ckzao,21-16,19-18
+842,Imperial,Keyd,,Results for November 2nd 2021,Aorus League 2021 Season 4 Brazil,inf,16,12,abr,delboNi,23-19,20-20
+843,Imperial,Keyd,,Results for November 2nd 2021,Aorus League 2021 Season 4 Brazil,inf,16,12,ponter,SHOOWTiME,15-21,19-18
+844,Imperial,Keyd,,Results for November 2nd 2021,Aorus League 2021 Season 4 Brazil,inf,16,12,raafa,horvy,14-20,11-21
+845,Imperial,MAXIMA,,Results for September 12th 2021,IEM Fall 2021 South America Open Qualifier 2,nuke,16,5,horvy,mtsGOD,24-13,13-15
+846,Imperial,MAXIMA,,Results for September 12th 2021,IEM Fall 2021 South America Open Qualifier 2,nuke,16,5,delboNi,kYOShix,18-10,13-16
+847,Imperial,MAXIMA,,Results for September 12th 2021,IEM Fall 2021 South America Open Qualifier 2,nuke,16,5,SHOOWTiME,mlhzin,20-12,12-18
+848,Imperial,MAXIMA,,Results for September 12th 2021,IEM Fall 2021 South America Open Qualifier 2,nuke,16,5,zqkS,Haz4rt,15-8,9-19
+849,Imperial,MAXIMA,,Results for September 12th 2021,IEM Fall 2021 South America Open Qualifier 2,nuke,16,5,ckzao,happ,10-11,7-19
+850,Imperial,Leviatan,,Results for September 12th 2021,IEM Fall 2021 South America Open Qualifier 2,nuke,16,9,tom1jed,delboNi,16-19,22-12
+851,Imperial,Leviatan,,Results for September 12th 2021,IEM Fall 2021 South America Open Qualifier 2,nuke,16,9,reversive,zqkS,12-19,23-12
+852,Imperial,Leviatan,,Results for September 12th 2021,IEM Fall 2021 South America Open Qualifier 2,nuke,16,9,Hezz,ckzao,13-17,20-13
+853,Imperial,Leviatan,,Results for September 12th 2021,IEM Fall 2021 South America Open Qualifier 2,nuke,16,9,1962,SHOOWTiME,12-20,17-16
+854,Imperial,Leviatan,,Results for September 12th 2021,IEM Fall 2021 South America Open Qualifier 2,nuke,16,9,pavv,horvy,12-20,13-13
+855,Imperial,ozbonz,,Results for September 12th 2021,IEM Fall 2021 South America Open Qualifier 2,d2,16,10,dukka,ckzao,20-21,32-16
+856,Imperial,ozbonz,,Results for September 12th 2021,IEM Fall 2021 South America Open Qualifier 2,d2,16,10,RCF,zqkS,15-20,21-18
+857,Imperial,ozbonz,,Results for September 12th 2021,IEM Fall 2021 South America Open Qualifier 2,d2,16,10,Torres,SHOOWTiME,18-20,19-16
+858,Imperial,ozbonz,,Results for September 12th 2021,IEM Fall 2021 South America Open Qualifier 2,d2,16,10,ph1,delboNi,14-18,18-15
+859,Imperial,ozbonz,,Results for September 12th 2021,IEM Fall 2021 South America Open Qualifier 2,d2,16,10,f4stzin,horvy,14-21,10-16
+860,Imperial,SWS,,Results for September 10th 2021,IEM Fall 2021 South America Open Qualifier 1,mrg,8,16,ckzao,matios,15-18,24-14
+861,Imperial,SWS,,Results for September 10th 2021,IEM Fall 2021 South America Open Qualifier 1,mrg,8,16,zqkS,Gafolo,16-18,21-10
+862,Imperial,SWS,,Results for September 10th 2021,IEM Fall 2021 South America Open Qualifier 1,mrg,8,16,delboNi,RICIOLI,14-19,21-12
+863,Imperial,SWS,,Results for September 10th 2021,IEM Fall 2021 South America Open Qualifier 1,mrg,8,16,horvy,cass1n,11-17,13-11
+864,Imperial,SWS,,Results for September 10th 2021,IEM Fall 2021 South America Open Qualifier 1,mrg,8,16,SHOOWTiME,chay,8-21,14-17
+865,Imperial,Jaguares,,Results for September 10th 2021,IEM Fall 2021 South America Open Qualifier 1,anc,16,12,w1,delboNi,19-20,28-15
+866,Imperial,Jaguares,,Results for September 10th 2021,IEM Fall 2021 South America Open Qualifier 1,anc,16,12,desh,zqkS,21-22,27-19
+867,Imperial,Jaguares,,Results for September 10th 2021,IEM Fall 2021 South America Open Qualifier 1,anc,16,12,skuld,ckzao,18-18,19-18
+868,Imperial,Jaguares,,Results for September 10th 2021,IEM Fall 2021 South America Open Qualifier 1,anc,16,12,TEKO,horvy,18-20,18-19
+869,Imperial,Jaguares,,Results for September 10th 2021,IEM Fall 2021 South America Open Qualifier 1,anc,16,12,roz,SHOOWTiME,14-23,11-20
+870,Imperial,Redragon,,Results for September 5th 2021,DreamHack Open September 2021 South America Open Qualifier 2,d2,11,16,puni,SHOOWTiME,25-11,21-18
+871,Imperial,Redragon,,Results for September 5th 2021,DreamHack Open September 2021 South America Open Qualifier 2,d2,11,16,proSHOW,ckzao,20-13,16-20
+872,Imperial,Redragon,,Results for September 5th 2021,DreamHack Open September 2021 South America Open Qualifier 2,d2,11,16,fp1,horvy,23-17,19-23
+873,Imperial,Redragon,,Results for September 5th 2021,DreamHack Open September 2021 South America Open Qualifier 2,d2,11,16,BRNZ1K,zqkS,16-16,10-19
+874,Imperial,Redragon,,Results for September 5th 2021,DreamHack Open September 2021 South America Open Qualifier 2,d2,11,16,kurg4n,delboNi,15-15,6-20
+875,Imperial,Stone,,Results for September 5th 2021,DreamHack Open September 2021 South America Open Qualifier 2,nuke,16,1,ckzao,naz,26-8,10-16
+876,Imperial,Stone,,Results for September 5th 2021,DreamHack Open September 2021 South America Open Qualifier 2,nuke,16,1,delboNi,rushardo,18-6,5-17
+877,Imperial,Stone,,Results for September 5th 2021,DreamHack Open September 2021 South America Open Qualifier 2,nuke,16,1,zqkS,ABM,14-6,8-17
+878,Imperial,Stone,,Results for September 5th 2021,DreamHack Open September 2021 South America Open Qualifier 2,nuke,16,1,horvy,Andrew,15-7,7-17
+879,Imperial,Stone,,Results for September 5th 2021,DreamHack Open September 2021 South America Open Qualifier 2,nuke,16,1,SHOOWTiME,fusco,11-7,4-17
+880,Imperial,ozbonz,,Results for September 3rd 2021,DreamHack Open September 2021 South America Open Qualifier 1,inf,7,16,f4stzin,delboNi,22-14,19-17
+881,Imperial,ozbonz,,Results for September 3rd 2021,DreamHack Open September 2021 South America Open Qualifier 1,inf,7,16,RCF,zqkS,21-14,17-16
+882,Imperial,ozbonz,,Results for September 3rd 2021,DreamHack Open September 2021 South America Open Qualifier 1,inf,7,16,caike,ckzao,23-12,13-19
+883,Imperial,ozbonz,,Results for September 3rd 2021,DreamHack Open September 2021 South America Open Qualifier 1,inf,7,16,ph1,SHOOWTiME,11-10,10-17
+884,Imperial,ozbonz,,Results for September 3rd 2021,DreamHack Open September 2021 South America Open Qualifier 1,inf,7,16,dukka,horvy,10-18,9-18
+885,Imperial,Heroic,,Results for June 3rd 2021,IEM Summer 2021,anc,8,16,SHOOWTiME,cadiaN,26-22,24-9
+886,Imperial,Heroic,,Results for June 3rd 2021,IEM Summer 2021,anc,8,16,ckzao,TeSeS,12-18,22-16
+887,Imperial,Heroic,,Results for June 3rd 2021,IEM Summer 2021,anc,8,16,zqkS,sjuush,11-18,18-17
+888,Imperial,Heroic,,Results for June 3rd 2021,IEM Summer 2021,anc,8,16,f4stzin,stavn,12-21,18-17
+889,Imperial,Heroic,,Results for June 3rd 2021,IEM Summer 2021,anc,8,16,fer,refrezh,14-20,16-16
